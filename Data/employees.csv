@@ -1,0 +1,878 @@
+EmployeeID,FirstName,LastName,Age,Gender,MaritalStatus,DepartmentID,JobRole,JobLevel,HireDate,Education,OverTime,RemoteWork,DistanceFromHome_km,NumCompaniesWorked
+1112,Amy,Adkins,27,Male,Single,9,Finance Analyst,2,2023-11-27,2.0,Yes,Yes,2.0,0
+1497,Tracy,Russell,24,Male,Single,7,Operations Manager,3,2026-05-31,3.0,Yes,Yes,18.0,0
+1340,Jared,Clark,28,Male,Single,1,Engineering Manager,2,2024-02-22,3.0,No,Hybrid,4.0,1
+1465,Jessica,Davis,21,Male,Married,3,Design Lead,3,2021-04-22,5.0,No,Hybrid,1.0,1
+1440,Douglas,Murray,35,Female,Married,7,Operations Analyst,2,2026-01-15,4.0,No,No,13.0,0
+1035,Leslie,Adams,21,Male,Married,5,Growth Marketer,2,2022-11-28,2.0,No,Hybrid,2.0,3
+1074,Amber,Blair,27,Female,Married,2,Product Manager,2,2024-06-30,4.0,No,Yes,37.0,1
+1060,Chelsea,Hernandez,37,Male,Single,1,Senior Software Engineer,5,2020-07-30,3.0,No,No,4.0,2
+1202,Thomas,Santana,36,Female,Single,6,Customer Success Associate,5,2026-04-17,2.0,No,No,3.0,1
+1003,Jill,Rhodes,28,Male,Married,5,Marketing Specialist,2,2024-07-26,5.0,No,No,2.0,5
+1057,Vincent,White,31,Female,Single,2,Product Analyst,3,2025-12-09,3.0,Yes,No,1.0,0
+1801,Shelly,Moore,32,Male,Single,1,Software Engineer,4,2024-08-23,3.0,Yes,No,10.0,2
+1004,Patricia,Miller,22,Male,Single,6,Customer Success Associate,2,2026-07-06,3.0,Yes,No,6.0,0
+1511,Jamie,Robinson,25,Male,Single,6,Customer Success Manager,1,2024-11-14,4.0,Yes,No,,0
+1632,Dale,Nolan,34,Male,,1,Senior Software Engineer,1,2023-11-04,4.0,No,Hybrid,18.0,1
+1278,Melissa,Burke,34,Female,Single,8,Recruiter,1,2024-03-26,2.0,Yes,No,,0
+1762,Jill,Porter,23,Female,Married,3,UX Designer,2,2024-05-16,3.0,Yes,Hybrid,13.0,4
+1784,Alicia,Hammond,34,Female,Married,1,Senior Software Engineer,2,2025-12-06,3.0,No,No,26.0,5
+1626,William,Ford,29,Female,Single,4,Sales Manager,3,2025-09-24,3.0,No,Hybrid,11.0,2
+1775,Sara,Little,28,Female,Single,2,Senior Product Manager,2,17-05-2025,3.0,Yes,No,25.0,2
+1082,Jeremy,Whitehead,26,Female,Single,4,Sales Manager,3,2023-05-16,3.0,No,No,1.0,2
+1302,Tracy,Chang,35,Male,Single,1,DevOps Engineer,1,2020-01-01,2.0,Yes,Hybrid,2.0,4
+1520,Grant,Williams,26,Female,Single,3,UX Designer,1,"May 11, 2024",3.0,No,Yes,28.0,1
+1593,Bobby,Smith,33,Female,Single,1,DevOps Engineer,1,2026-07-16,3.0,Yes,Yes,,1
+1507,Carla,Smith,42,Male,Single,4,Sales Development Rep,2,2026-06-07,4.0,Yes,Hybrid,6.0,1
+1611,Carrie,Wolf,34,Female,Married,1,Engineering Manager,5,2025-04-29,4.0,Yes,Hybrid,18.0,3
+1818,Theresa,Anderson,29,Male,Single,4,Account Executive,1,2023-09-20,3.0,No,Hybrid,35.0,0
+1009,Jeffrey,Lawrence,32,Male,Single,9,Accountant,2,2023-11-05,2.0,No,Hybrid,5.0,4
+1722,Steven,Dominguez,21,Male,Married,2,Product Analyst,4,2025-12-02,,No,No,10.0,2
+1518,Alexis,Tyler,39,Male,Single,5,Marketing Manager,1,2023-12-18,5.0,Yes,No,11.0,4
+1315,Todd,Hardy,33,Non-binary,Married,1,Engineering Manager,3,2021-09-10,3.0,No,Hybrid,5.0,3
+1085,Jason,Anderson,31,Male,Single,4,Account Executive,2,2022-05-21,3.0,No,No,2.0,2
+1430,Corey,Schultz,21,Female,Married,3,Design Lead,5,2025-03-10,4.0,Yes,Yes,6.0,3
+1517,Donna,Johnson,21,Male,Married,1,Engineering Manager,3,2022-12-14,3.0,Yes,No,2.0,3
+1203,Laura,Jackson,36,Male,Single,6,Customer Success Associate,5,2024-08-15,4.0,No,No,16.0,0
+1769,Rachel,Wallace,25,Female,Married,5,Content Marketer,5,2025-05-02,5.0,No,Hybrid,5.0,1
+1095,James,West,38,Female,Single,4,Sales Manager,2,2022-09-20,4.0,Yes,No,18.0,3
+1206,Loretta,Potter,28,Male,Married,1,Engineering Manager,2,2023-03-28,3.0,No,Hybrid,4.0,3
+1692,Debra,Moody,24,Male,Single,7,Operations Analyst,4,2024-06-26,3.0,No,Hybrid,6.0,3
+1194,David,Fisher,22,Female,Single,6,Customer Success Manager,3,2023-10-20,2.0,No,Hybrid,2.0,1
+1224,Jennifer,Wagner,30,Male,Single,1,Senior Software Engineer,2,2022-12-18,3.0,No,Hybrid,22.0,2
+1805,Anthony,Williams,36,Male,Single,1,Software Engineer,2,2024-02-05,2.0,No,Hybrid,15.0,1
+1603,Randy,Collins,34,Female,Single,5,Content Marketer,5,2024-05-01,3.0,Yes,Hybrid,9.0,2
+1409,Kimberly,Williams,23,Male,Single,3,Design Lead,3,2024-12-26,3.0,Yes,Yes,3.0,2
+1547,Marie,Davis,28,Male,Single,4,Sales Manager,2,2022-06-24,3.0,Yes,No,39.0,4
+1638,Justin,Ortiz,21,Male,Married,5,Marketing Manager,2,2023-09-14,3.0,No,Hybrid,8.0,2
+1618,Courtney,Hernandez,25,Female,Married,3,Design Lead,1,2026-06-08,3.0,No,No,4.0,1
+1826,Becky,Edwards,28,Female,Single,7,Operations Manager,1,2021-09-18,4.0,No,No,36.0,1
+1645,Mathew,Aguilar,26,Male,Single,1,DevOps Engineer,1,2025-10-30,3.0,Yes,Yes,4.0,1
+1176,Tina,Herrera,36,Male,Single,1,Engineering Manager,4,2026-03-16,3.0,Yes,No,3.0,1
+1494,Sonya,Barnes,21,Male,Single,4,Account Executive,2,2022-01-31,4.0,No,Hybrid,8.0,2
+1369,Travis,Davis,35,Male,Married,1,Engineering Manager,2,2026-03-27,3.0,Yes,Hybrid,1.0,5
+1155,Laura,Valencia,31,Male,Married,2,Product Manager,2,2021-06-16,2.0,No,Hybrid,25.0,2
+1679,John,Davidson,26,Male,Married,3,UI Designer,2,2024-10-15,4.0,No,Yes,17.0,4
+1299,Jacqueline,Hill,25,Female,Married,6,Customer Success Manager,3,2026-06-22,3.0,Yes,Yes,1.0,4
+1018,Nicholas,Arnold,35,Male,Married,8,People Ops Associate,2,2025-01-23,3.0,Yes,Hybrid,28.0,0
+1840,Angela,Jones,26,Female,Married,6,Customer Success Associate,2,2023-07-19,3.0,Yes,Hybrid,,3
+1686,Jeffrey,Hayes,30,Male,Married,1,Engineering Manager,2,2020-10-30,3.0,Yes,Hybrid,2.0,1
+1256,Jason,Murphy,26,Male,Single,6,Customer Success Manager,2,"August 04, 2024",5.0,No,No,1.0,2
+1503,Michael,Sanders,26,Female,Single,1,Senior Software Engineer,4,2023-11-19,3.0,No,Hybrid,3.0,2
+1342,Glenn,Jones,30,Male,Married,5,  Marketing Manager  ,1,2025-09-04,4.0,No,Hybrid,38.0,2
+1624,Chase,Lin,26,Male,Divorced,6,Customer Success Manager,3,2025-07-21,3.0,Yes,Hybrid,30.0,1
+1684,Rebecca,Hernandez,21,Female,Single,2,Product Manager,3,2022-07-07,5.0,Yes,Hybrid,17.0,5
+1225,Maria,Kelley,33,Female,Married,6,Customer Success Manager,4,2025-12-18,3.0,Yes,Yes,13.0,1
+1295,Nicholas,Johnson,26,Male,Single,2,Product Analyst,1,2022-05-04,3.0,Yes,No,5.0,3
+1188,Michael,Jones,24,Male,Single,1,Software Engineer,2,2023-01-13,3.0,Yes,Hybrid,9.0,3
+1444,Eric,Alexander,24,Female,Married,1,Engineering Manager,2,2024-02-10,3.0,Yes,Hybrid,1.0,1
+1590,Jane,Mason,28,Female,Single,4,Sales Manager,2,2024-10-30,2.0,Yes,Hybrid,11.0,4
+1817,Jessica,Valencia,25,Female,Married,6,Customer Success Associate,5,2025-02-14,3.0,Yes,Yes,27.0,7
+1371,Elizabeth,Hodge,31,Male,Married,5,Marketing Specialist,4,2022-02-22,5.0,No,Yes,31.0,1
+1495,Julia,Moore,30,Female,Single,1,QA Engineer,4,2024-11-15,3.0,Yes,No,24.0,0
+1551,Mark,Martinez,34,Male,Married,4,Account Executive,3,2026-02-05,3.0,Yes,Hybrid,15.0,2
+1728,Zachary,Hays,21,Male,Single,4,Account Executive,5,2025-12-15,2.0,No,Hybrid,5.0,2
+1245,Amy,Morrison,28,Male,Single,1,DevOps Engineer,3,2023-04-28,4.0,No,Yes,1.0,1
+1614,Karen,Wolf,28,Male,Married,1,DevOps Engineer,1,2022-10-30,3.0,Yes,Yes,1.0,1
+1345,Jesse,Mann,29,Male,Married,3,UX Designer,3,2023-08-10,3.0,Yes,No,7.0,0
+1579,Scott,Nelson,35,Male,Single,4,Account Executive,4,2024-10-19,4.0,Yes,Yes,6.0,3
+1436,Ashlee,Sparks,27,Male,Divorced,4,Sales Development Rep,1,2024-07-30,2.0,No,Hybrid,12.0,2
+1217,Gregory,Rubio,24,Female,Married,4,Sales Development Rep,3,2019-08-29,3.0,No,No,1.0,1
+1835,Amanda,Boone,36,Male,Married,3,  Design Lead  ,5,2023-11-25,5.0,No,Hybrid,10.0,5
+1310,Jacqueline,Nelson,32,Female,Single,3,UX Designer,5,2025-08-10,3.0,Yes,No,7.0,1
+1431,Monique,Wallace,35,Male,Single,1,Senior Software Engineer,4,2024-08-23,3.0,No,Hybrid,,2
+1650,Nicholas,Conner,24,Male,Married,1,Senior Software Engineer,2,2026-03-15,3.0,Yes,Hybrid,20.0,2
+1308,Alyssa,Coleman,21,Female,Married,1,Senior Software Engineer,5,2023-10-29,2.0,No,No,,2
+1048,Bryan,James,34,Female,Single,5,Growth Marketer,3,2021-05-14,4.0,No,Yes,22.0,2
+1386,Chelsea,Allen,26,Male,Single,6,Customer Success Manager,3,2022-04-16,3.0,No,No,1.0,2
+1195,Shelby,Byrd,32,Female,Single,1,  Software Engineer  ,3,2025-06-13,2.0,No,Yes,,0
+1020,Michelle,Ray,26,Male,Single,4,Account Executive,3,2024-04-28,5.0,No,No,1.0,0
+1577,Emily,Nelson,32,Female,Single,4,Sales Development Rep,2,2023-03-03,4.0,Yes,Yes,1.0,3
+1373,Keith,Landry,21,Male,Married,1,Engineering Manager,3,2025-11-18,3.0,No,Hybrid,19.0,0
+1355,Keith,Martinez,28,Female,Single,8,People Ops Associate,3,2025-11-06,4.0,No,Yes,1.0,6
+1066,Kyle,Brown,25,Female,Married,6,Customer Success Manager,3,2024-06-01,4.0,No,Yes,6.0,4
+1149,Ronald,Smith,41,Female,Single,3,UX Designer,1,2024-05-09,1.0,No,No,3.0,1
+1319,Harry,Smith,28,Male,Married,4,Sales Manager,1,2024-07-03,1.0,Yes,No,10.0,3
+1292,Mariah,Miller,36,Male,Married,1,QA Engineer,1,2020-07-28,3.0,Yes,No,7.0,0
+1091,Jessica,Nunez,31,Male,Single,4,Sales Development Rep,3,2025-02-21,4.0,No,Hybrid,1.0,0
+1196,Raven,Gilbert,27,Male,Single,3,UI Designer,2,2025-02-08,3.0,No,Hybrid,17.0,3
+1051,Alexander,Le,31,Female,Single,5,Growth Marketer,1,2024-07-05,1.0,Yes,Yes,,5
+1460,Erica,Le,22,Male,Married,4,Account Executive,3,2025-09-12,4.0,No,No,35.0,2
+1559,Michael,Farmer,32,Female,Married,4,Account Executive,1,2021-07-01,3.0,No,Yes,6.0,4
+1061,Kathryn,Ryan,38,Male,Married,1,QA Engineer,1,2025-06-27,3.0,Yes,No,1.0,2
+1423,Melissa,Villarreal,28,Female,Single,7,Operations Manager,2,2021-11-21,2.0,Yes,Hybrid,1.0,1
+1258,Karen,Decker,23,Male,Married,5,Growth Marketer,1,2025-05-19,3.0,Yes,Hybrid,26.0,2
+1723,Crystal,Cain,37,Female,Married,1,QA Engineer,2,2025-08-25,3.0,Yes,Hybrid,2.0,3
+1561,Megan,Villegas,27,Female,Married,6,Customer Success Associate,2,2024-06-27,3.0,Yes,Hybrid,7.0,3
+1785,Madeline,Jones,21,Female,,8,  Recruiter  ,1,2024-09-30,5.0,No,No,26.0,2
+1663,Katie,Anderson,21,Male,Single,6,Customer Success Associate,3,2022-03-08,4.0,Yes,Hybrid,12.0,4
+1190,Lee,Charles,31,Female,Divorced,1,QA Engineer,1,2024-09-27,3.0,No,Hybrid,35.0,3
+1832,Michael,Williams,31,Female,Single,1,Engineering Manager,2,2024-06-09,3.0,No,Hybrid,12.0,0
+1480,Shawn,Chambers,21,Female,Divorced,5,Content Marketer,4,2025-05-19,1.0,No,Yes,11.0,0
+1242,Michael,Molina,32,Male,Married,1,Engineering Manager,2,2023-06-03,4.0,No,Hybrid,13.0,2
+1118,Joe,Wilson,21,Male,Married,1,QA Engineer,5,2025-08-30,2.0,No,No,1.0,2
+1704,Rebecca,Carlson,31,Female,Single,5,Marketing Specialist,1,2024-08-14,5.0,Yes,Yes,13.0,2
+1249,Richard,Martin,24,Female,Divorced,2,Senior Product Manager,1,2021-02-08,3.0,No,No,11.0,2
+1541,Shannon,Perez,39,Male,Married,1,DevOps Engineer,2,2023-10-06,3.0,No,Hybrid,31.0,3
+1717,Jessica,Fuller,32,Male,Married,3,  Design Lead  ,2,2022-03-18,3.0,No,Yes,2.0,3
+1740,Carrie,Short,21,Male,Married,1,DevOps Engineer,4,2026-05-29,3.0,Yes,No,2.0,4
+1102,Melinda,Martin,27,Male,Divorced,6,Customer Success Associate,1,2023-05-17,4.0,Yes,No,5.0,2
+1287,Jessica,Sheppard,38,Female,Single,1,DevOps Engineer,4,2026-01-16,4.0,Yes,Hybrid,9.0,1
+1780,Miguel,Lara,29,Male,Married,5,Marketing Specialist,2,2023-12-14,3.0,No,Yes,23.0,2
+1803,Cassie,Kirby,21,Male,Single,2,Senior Product Manager,3,2024-03-29,,Yes,Hybrid,6.0,3
+1429,Julie,Hamilton,35,Female,Single,1,QA Engineer,4,2024-09-15,,No,Yes,1.0,2
+1413,Tina,Simpson,31,Female,Married,7,Operations Analyst,3,2026-04-24,3.0,Yes,Hybrid,27.0,3
+1448,James,Cruz,35,Female,Single,1,Software Engineer,3,2024-07-25,3.0,No,No,57.0,3
+1568,Molly,Knight,21,Male,Single,1,DevOps Engineer,4,08/18/2024,3.0,Yes,Yes,3.0,2
+1086,Selena,Duncan,42,Female,Married,4,Sales Development Rep,2,2026-01-29,3.0,Yes,No,12.0,1
+1182,Catherine,Dixon,26,Female,Married,5,Marketing Specialist,2,31-03-2023,4.0,No,Yes,15.0,2
+1703,Stephen,Rodriguez,22,Female,Single,1,Software Engineer,2,2025-03-10,2.0,Yes,Hybrid,5.0,6
+1364,Emily,Adams,38,Male,Single,7,Operations Analyst,2,2023-05-28,4.0,Yes,Hybrid,1.0,2
+1321,Terri,Tran,25,Male,,4,Sales Development Rep,2,2025-02-19,2.0,No,Hybrid,3.0,2
+1186,Amanda,Ball,23,Male,Married,6,Customer Success Associate,1,2022-10-12,,Yes,Hybrid,1.0,2
+1641,Cameron,Davis,38,Female,Divorced,6,Customer Success Manager,1,2025-09-06,4.0,Yes,Yes,8.0,5
+1790,Hunter,Burch,28,Non-binary,Single,4,Sales Development Rep,3,2026-05-31,2.0,Yes,No,6.0,1
+1620,Kevin,Hill,32,Male,Single,4,Account Executive,2,08/20/2025,4.0,Yes,Yes,1.0,3
+1608,Jessica,Fuentes,22,Male,Divorced,2,Senior Product Manager,1,2024-05-29,,No,Hybrid,1.0,5
+1108,Susan,Cowan,31,Male,Single,2,Senior Product Manager,5,2025-08-11,5.0,No,Yes,14.0,6
+1050,Tasha,Valencia,25,Male,Married,3,UI Designer,2,2025-08-27,4.0,No,No,23.0,2
+1263,Denise,Webster,23,Male,Married,7,Operations Analyst,3,2023-01-03,4.0,No,No,14.0,2
+1122,Alexandra,Donovan,30,Male,Married,2,Senior Product Manager,2,2024-12-30,3.0,No,Hybrid,47.0,4
+1637,Erik,Watson,26,Male,Single,1,Software Engineer,1,2025-12-26,4.0,No,Hybrid,1.0,1
+1219,John,Charles,23,Male,Single,7,Operations Analyst,1,2022-06-14,2.0,Yes,Yes,10.0,0
+1791,Ryan,Bartlett,21,Female,Divorced,6,Customer Success Manager,4,2024-04-08,4.0,Yes,Hybrid,31.0,2
+1485,Anna,Herman,22,Male,Single,6,Customer Success Associate,3,2023-11-15,3.0,No,No,19.0,5
+1017,Amanda,Dudley,25,Male,Married,1,Software Engineer,2,2025-11-17,3.0,Yes,No,11.0,2
+1473,Matthew,Wilson,30,Male,Married,2,Product Analyst,1,2026-01-23,4.0,No,No,19.0,2
+1447,John,Bruce,38,Male,Married,1,Engineering Manager,5,2023-10-20,3.0,No,Hybrid,23.0,1
+1609,Lisa,Young,30,Male,Married,6,Customer Success Associate,2,2026-04-01,4.0,No,No,29.0,2
+1625,Melissa,Gilbert,21,Male,Married,1,Software Engineer,5,2024-05-19,3.0,No,Hybrid,7.0,3
+1502,Amy,Levine,25,Female,Married,4,Sales Manager,2,2023-12-14,3.0,No,Hybrid,3.0,0
+1586,Jason,Taylor,41,Female,Single,2,Senior Product Manager,5,2024-10-20,4.0,No,Hybrid,8.0,1
+1782,Christopher,Parker,36,Female,Single,2,Product Manager,2,"July 12, 2022",3.0,No,Hybrid,21.0,4
+1435,Dustin,Schmidt,21,Male,Married,6,Customer Success Associate,3,2025-11-09,,No,Hybrid,7.0,1
+1107,Spencer,Henderson,26,Male,Single,1,Software Engineer,2,2022-09-23,4.0,No,Hybrid,18.0,3
+1024,Craig,Ramirez,31,Male,Divorced,1,Software Engineer,1,2023-11-05,3.0,Yes,Hybrid,26.0,2
+1070,Katie,Anderson,28,Female,Married,1,Software Engineer,5,2025-01-24,4.0,Yes,Yes,4.0,2
+1693,Devin,Mitchell,29,Male,Married,7,Operations Analyst,4,2022-01-27,3.0,Yes,No,13.0,3
+1742,Christopher,Guerrero,35,Female,Divorced,4,Account Executive,2,2024-02-29,4.0,No,Yes,8.0,3
+1687,Michael,Johnson,28,Male,Single,3,UX Designer,1,2026-03-31,3.0,No,Yes,46.0,1
+1651,Lisa,Santiago,27,Male,Married,8,Recruiter,3,2025-07-04,4.0,No,Hybrid,12.0,2
+1606,Daniel,Hicks,24,Male,Married,6,Customer Success Manager,3,2025-07-01,3.0,No,No,4.0,4
+1120,Brooke,Harvey,21,Female,Single,1,QA Engineer,2,2022-09-01,4.0,No,Hybrid,1.0,2
+1243,Melissa,Ashley,28,Female,Married,5,Marketing Manager,4,2024-08-16,2.0,No,No,2.0,3
+1630,Marc,Alvarez,29,Female,Divorced,1,Senior Software Engineer,2,2021-09-17,4.0,No,Yes,2.0,1
+1356,Haley,Lyons,26,Female,Single,4,Sales Development Rep,4,2020-08-27,5.0,Yes,Hybrid,1.0,3
+1767,Travis,Martinez,21,Male,Single,4,Sales Development Rep,3,2025-03-16,2.0,No,Hybrid,12.0,1
+1483,Daniel,Hall,34,Male,Single,1,QA Engineer,3,2024-09-17,1.0,No,No,22.0,1
+1635,John,Kim,29,Male,Single,9,Finance Analyst,2,2022-09-21,4.0,Yes,Hybrid,5.0,4
+1685,Samuel,Potts,23,Male,Married,1,Engineering Manager,3,2026-06-27,4.0,No,Hybrid,3.0,1
+1266,David,Caldwell,32,Female,Married,4,Sales Manager,1,2024-08-31,3.0,No,No,3.0,0
+1438,Monica,Harvey,32,Male,Married,4,Sales Manager,1,2024-08-06,3.0,No,Hybrid,13.0,3
+1121,Robert,Silva,32,Male,Married,1,  DevOps Engineer  ,4,2023-09-15,2.0,Yes,Hybrid,9.0,2
+1683,Kathryn,Nelson,24,Female,Married,1,Engineering Manager,1,2025-10-04,2.0,Yes,Yes,11.0,1
+1720,Amy,Li,26,Male,Divorced,1,QA Engineer,1,"September 24, 2024",4.0,No,Yes,8.0,3
+1499,Mitchell,Ramos,24,Female,,6,Customer Success Manager,2,2023-09-25,4.0,Yes,Hybrid,,1
+1556,Becky,Lewis,29,Male,Single,1,Engineering Manager,3,2026-04-28,4.0,Yes,Hybrid,12.0,2
+1544,Ronald,Ortega,27,Female,Married,6,Customer Success Associate,3,2020-11-20,4.0,No,Hybrid,1.0,5
+1181,Jessica,Edwards,21,Male,Married,2,Product Analyst,1,2020-12-26,3.0,Yes,Yes,2.0,2
+1528,Tamara,Brown,25,Female,Single,1,Engineering Manager,4,2025-07-18,4.0,No,Hybrid,,3
+1837,Jessica,Gallagher,29,Male,Married,1,QA Engineer,2,02/26/2024,4.0,No,Hybrid,5.0,2
+1732,Michelle,Rivera,21,Male,Married,3,UI Designer,2,2023-07-01,4.0,No,Hybrid,1.0,1
+1350,Ronald,Stephens,23,Female,Single,7,Operations Analyst,2,2025-02-15,3.0,Yes,No,3.0,3
+1062,Kimberly,Moreno,21,Male,Married,9,Finance Analyst,1,2025-04-17,2.0,No,Hybrid,18.0,1
+1665,Marie,Wise,21,Female,Married,3,UI Designer,4,2026-03-06,3.0,Yes,Hybrid,9.0,2
+1341,Donna,Moore,32,Male,Married,7,Operations Manager,2,2025-10-11,3.0,Yes,Hybrid,,1
+1588,Adrian,Burgess,33,Male,Single,4,Sales Manager,2,2026-06-16,4.0,Yes,Yes,24.0,2
+1582,Erika,Tucker,23,Female,Single,1,Engineering Manager,1,2025-06-26,4.0,No,No,1.0,2
+1670,Kaitlyn,Cole,30,Female,Married,3,UX Designer,1,2026-07-08,3.0,No,No,3.0,1
+1564,Sarah,Gallegos,37,Male,Married,8,Recruiter,2,2023-05-08,2.0,No,No,30.0,1
+1702,Robert,Bauer,31,Male,Single,3,UX Designer,1,2024-12-27,3.0,Yes,No,5.0,4
+1136,Lisa,Evans,23,Male,Married,4,Sales Development Rep,1,2022-07-14,3.0,No,Yes,60.0,2
+1510,Casey,Hubbard,37,Male,Married,1,Software Engineer,1,2026-01-11,3.0,No,Hybrid,29.0,2
+1404,Amanda,Reed,34,Female,Single,3,Design Lead,2,2025-05-08,4.0,No,Hybrid,1.0,1
+1135,Destiny,Smith,36,Male,Single,6,Customer Success Associate,5,2023-10-13,3.0,No,Yes,1.0,2
+1367,Sabrina,White,23,Female,Single,4,Sales Development Rep,5,2025-06-30,2.0,Yes,No,8.0,2
+1105,Nicholas,Galloway,31,Female,Single,1,Senior Software Engineer,3,2022-07-23,3.0,Yes,Hybrid,25.0,1
+1312,James,Wilson,32,Male,Single,1,DevOps Engineer,2,2022-05-19,3.0,No,Hybrid,12.0,0
+1383,Andrea,Pennington,21,Male,Married,7,Operations Manager,4,2026-04-01,5.0,Yes,Hybrid,,0
+1058,Rita,Harrell,26,Female,Married,2,Product Analyst,1,2025-11-21,3.0,Yes,Hybrid,14.0,0
+1824,John,Grimes,24,Male,Single,1,  Engineering Manager  ,1,2025-06-24,3.0,Yes,No,7.0,0
+1536,Alyssa,Chavez,39,Female,Married,5,Content Marketer,2,2021-08-19,4.0,Yes,No,1.0,2
+1332,Victoria,Wilson,35,Male,Single,6,Customer Success Manager,3,2025-01-05,2.0,Yes,Hybrid,7.0,3
+1290,Ryan,Simon,30,Female,Single,1,DevOps Engineer,5,2019-08-23,4.0,Yes,Hybrid,27.0,0
+1434,Kelly,Brooks,31,Male,Single,1,Engineering Manager,1,2026-04-17,2.0,Yes,No,8.0,3
+1488,Kevin,Ortiz,36,Female,,1,Senior Software Engineer,3,2022-03-12,1.0,Yes,No,1.0,1
+1852,Mark,Austin,41,Male,Single,4,Sales Manager,2,2025-10-24,3.0,No,No,21.0,5
+1208,James,Johnson,35,Female,,2,Product Manager,1,2026-07-20,3.0,Yes,Yes,1.0,2
+1275,Jennifer,Jones,28,Male,Married,1,Senior Software Engineer,1,2022-12-13,3.0,No,No,14.0,2
+1416,Morgan,Alexander,29,Male,,8,HR Business Partner,4,2025-05-20,3.0,No,No,1.0,4
+1036,Jason,Hahn,24,Male,Married,4,Account Executive,2,2024-09-28,4.0,Yes,No,4.0,1
+1047,Laura,Henderson,30,Female,Married,1,Senior Software Engineer,1,2026-01-29,3.0,Yes,Hybrid,6.0,2
+1246,Jeffrey,Robinson,37,Female,Single,1,QA Engineer,3,2022-07-25,2.0,No,Hybrid,19.0,0
+1864,Becky,Griffith,34,Male,Married,1,Software Engineer,2,2024-10-11,5.0,No,No,2.0,2
+1738,April,Owen,27,Male,Married,2,Product Manager,5,2023-03-22,3.0,Yes,Hybrid,9.0,1
+1042,Brenda,Hurst,27,Male,,1,DevOps Engineer,5,2025-12-18,4.0,No,No,7.0,3
+1330,Brian,Hernandez,21,Male,Single,4,Account Executive,1,2022-12-26,3.0,No,Yes,,1
+1126,Leslie,Walton,30,Male,Married,9,Accountant,3,2025-08-18,3.0,No,No,20.0,3
+1405,Andrea,Daniels,32,Male,Married,1,Software Engineer,1,2023-11-09,4.0,No,Yes,2.0,3
+1699,Jessica,Rose,25,Female,Married,4,Sales Development Rep,5,2025-02-11,3.0,Yes,Yes,20.0,0
+1109,Angela,Higgins,21,Female,Single,1,QA Engineer,1,"August 21, 2024",3.0,Yes,Hybrid,25.0,3
+1571,Julie,Lewis,37,Female,Single,3,UX Designer,3,12/22/2024,1.0,No,Hybrid,2.0,0
+1497,Tracy,Russell,24,Male,Single,7,Operations Manager,3,2026-05-31,3.0,Yes,Yes,18.0,0
+1487,Madison,Blankenship,21,Male,Married,1,Software Engineer,2,2021-06-23,3.0,No,Hybrid,35.0,1
+1674,Stacey,Joyce,32,Male,Single,1,QA Engineer,3,2025-08-28,3.0,Yes,No,11.0,1
+1001,Danielle,Johnson,32,Male,Single,2,Product Analyst,5,2026-04-24,4.0,Yes,Hybrid,1.0,1
+1372,Mark,Steele,36,Male,Married,1,Engineering Manager,2,2026-05-26,3.0,No,Hybrid,1.0,1
+1522,Julie,Alvarez,38,Male,Single,1,DevOps Engineer,1,2023-02-10,5.0,Yes,No,4.0,2
+1229,Katie,Boyd,28,Male,Single,1,Senior Software Engineer,2,2022-04-19,4.0,Yes,Hybrid,27.0,1
+1075,James,Collins,43,Male,Married,4,  Account Executive  ,4,2025-05-05,4.0,No,Yes,23.0,1
+1161,Michelle,Cherry,28,Female,Single,2,Product Analyst,2,2022-11-08,2.0,No,Yes,1.0,3
+1389,Victoria,Durham,33,Female,Single,6,Customer Success Manager,5,2020-03-16,5.0,Yes,Hybrid,11.0,1
+1067,Natalie,Arroyo,38,Male,Single,5,Growth Marketer,2,2025-06-10,4.0,Yes,No,10.0,0
+1816,Larry,Higgins,33,Female,Married,4,Account Executive,4,2023-06-18,3.0,No,Hybrid,6.0,2
+1839,Ashley,Lee,26,Male,Married,4,Account Executive,1,2024-09-29,2.0,No,Yes,7.0,2
+1855,Matthew,Clayton,30,Male,Single,4,Sales Development Rep,2,2024-03-31,3.0,No,No,19.0,1
+1239,Brandy,Dominguez,38,Male,Single,1,Engineering Manager,2,2025-05-08,3.0,No,No,10.0,1
+1492,Derek,Chavez,26,Female,,2,Product Manager,2,2026-03-27,3.0,No,No,2.0,2
+1464,Scott,Riley,27,Female,Single,1,QA Engineer,2,2021-07-10,3.0,No,Yes,11.0,1
+1858,Micheal,Nunez,28,Male,Single,1,QA Engineer,2,2021-06-08,3.0,No,No,60.0,2
+1259,Johnny,Miller,21,Female,Single,8,Recruiter,2,2024-01-05,3.0,Yes,Hybrid,1.0,0
+1667,Samuel,Jenkins,23,Female,Single,5,Marketing Specialist,2,2021-04-09,3.0,Yes,Hybrid,1.0,1
+1160,Eric,Spears,39,Male,Married,1,Senior Software Engineer,2,2022-03-28,3.0,No,No,54.0,1
+1449,Timothy,Young,21,Female,Single,4,Sales Development Rep,1,2021-12-28,,Yes,Hybrid,31.0,1
+1162,Lisa,Keith,26,Male,Single,2,Product Analyst,3,2025-12-18,3.0,No,Hybrid,22.0,2
+1842,Joshua,Hays,23,Female,Single,3,Design Lead,3,2025-10-16,3.0,Yes,No,10.0,4
+1700,Daniel,Roberts,24,Female,Married,1,Engineering Manager,2,2021-09-28,4.0,Yes,Hybrid,1.0,3
+1422,Debra,Christian,30,Female,Single,8,Recruiter,2,2024-12-09,5.0,No,No,4.0,3
+1532,Christopher,Franklin,21,Male,Married,6,Customer Success Associate,1,2024-07-11,4.0,No,No,42.0,0
+1799,Kevin,Ferguson,30,Female,Single,1,QA Engineer,1,2024-02-01,3.0,Yes,Hybrid,19.0,3
+1360,Marcus,Wright,23,Male,Single,4,Sales Development Rep,1,2020-04-26,3.0,Yes,Yes,44.0,2
+1014,Christopher,Davis,21,Female,Married,4,Account Executive,2,2023-03-02,4.0,Yes,No,6.0,1
+1566,Jacqueline,Parker,30,Male,Married,1,DevOps Engineer,2,"November 16, 2024",4.0,Yes,No,,4
+1481,Emily,Richards,23,Male,Single,6,Customer Success Manager,2,2023-11-02,5.0,Yes,No,2.0,1
+1248,Matthew,Shelton,25,Male,Single,1,Engineering Manager,2,2025-08-12,3.0,Yes,No,22.0,1
+1234,Jesse,Benson,24,Male,Single,5,Growth Marketer,1,2022-09-17,4.0,Yes,Hybrid,3.0,2
+1427,Casey,Welch,21,Male,Single,1,QA Engineer,2,2026-07-19,3.0,Yes,Hybrid,21.0,1
+1240,Melissa,Cannon,32,Male,Married,2,Product Manager,2,2026-06-25,3.0,Yes,Hybrid,7.0,4
+1454,Gina,Garner,21,Female,Divorced,7,Operations Manager,4,2026-06-15,3.0,Yes,No,1.0,3
+1093,Richard,Morgan,39,Female,Single,6,Customer Success Manager,1,2025-07-08,4.0,Yes,Hybrid,,2
+1115,Eric,Yu,36,Female,Married,5,Marketing Specialist,2,2024-05-31,4.0,Yes,Yes,12.0,5
+1861,Hailey,Johnson,36,Male,Divorced,6,  Customer Success Manager  ,1,2023-07-21,3.0,Yes,Hybrid,24.0,1
+1077,Samuel,Holmes,22,Male,Married,5,Growth Marketer,1,2025-02-22,4.0,Yes,Yes,2.0,2
+1863,Krista,Parsons,26,Male,Divorced,2,Senior Product Manager,2,2024-11-27,3.0,No,No,1.0,2
+1718,Kelsey,Moss,30,Female,Single,1,Software Engineer,2,2025-04-17,3.0,Yes,No,34.0,8
+1133,Martha,Warner,35,Female,Single,4,Account Executive,3,2022-12-17,3.0,Yes,No,1.0,1
+1387,Eric,Pierce,21,Female,Single,4,Account Executive,3,2024-08-04,,Yes,No,12.0,1
+1269,Gary,Lawson,25,Female,Married,7,Operations Manager,4,2023-04-24,3.0,No,No,12.0,1
+1508,Kristin,Sanchez,29,Female,Single,1,DevOps Engineer,1,2026-04-21,3.0,Yes,No,16.0,1
+1247,Ryan,Johnson,29,Male,Single,6,Customer Success Associate,2,2023-11-16,2.0,Yes,No,6.0,0
+1751,Erin,Cisneros,27,Male,Single,7,Operations Analyst,1,2021-05-03,4.0,No,No,14.0,0
+1765,Sean,Davies,21,Female,Married,3,UX Designer,3,2021-08-09,3.0,Yes,No,16.0,2
+1041,Anna,Baker,21,Male,Single,2,Product Analyst,3,2026-01-22,4.0,No,No,10.0,0
+1090,Rodney,Owens,30,Male,Single,4,Account Executive,1,2024-02-19,5.0,Yes,Yes,3.0,2
+1453,Joshua,Knight,31,Male,Single,5,Content Marketer,2,2025-06-13,4.0,Yes,Hybrid,15.0,2
+1853,Francisco,Ewing,28,Male,Married,1,DevOps Engineer,4,2024-02-12,3.0,No,Yes,2.0,2
+1069,Chad,Hodges,35,Female,Single,6,Customer Success Associate,3,2025-08-21,2.0,No,Hybrid,1.0,2
+1862,Thomas,Coffey,25,Female,Married,2,Senior Product Manager,1,2021-04-21,3.0,No,Hybrid,7.0,1
+1140,Joseph,Jacobs,21,Male,Single,2,Senior Product Manager,4,2022-02-18,3.0,No,No,8.0,1
+1346,Jacqueline,Gibson,24,Male,Single,5,Growth Marketer,2,2024-12-23,5.0,No,Yes,2.0,2
+1119,Pamela,Sanchez,21,Male,Single,1,QA Engineer,4,2020-01-03,5.0,No,Yes,1.0,4
+1709,Elizabeth,Miller,27,Male,Single,2,Product Manager,2,2026-03-04,3.0,No,Hybrid,1.0,1
+1812,Gail,Evans,32,Male,Single,7,Operations Manager,1,2024-01-11,4.0,Yes,Hybrid,2.0,4
+1636,Scott,Mills,25,Female,Divorced,6,Customer Success Associate,3,2025-02-24,3.0,No,Yes,1.0,3
+1677,Tammy,Montoya,21,Female,Single,4,  Account Executive  ,4,2022-05-18,4.0,No,Hybrid,7.0,4
+1819,Mitchell,Hoffman,27,Female,Single,7,Operations Analyst,3,06-03-2026,4.0,No,Hybrid,20.0,4
+1849,Derrick,Cook,29,Male,Married,2,Product Analyst,1,2023-08-15,3.0,Yes,No,1.0,1
+1015,Melanie,Munoz,34,Male,Divorced,2,Senior Product Manager,2,2024-11-01,2.0,Yes,Hybrid,1.0,2
+1083,Michele,Jones,25,Female,Married,1,Senior Software Engineer,4,2024-06-26,3.0,No,Hybrid,6.0,2
+1788,Melvin,Humphrey,24,Male,Divorced,9,Finance Analyst,5,2025-06-10,2.0,Yes,Hybrid,1.0,1
+1376,Marcus,Cordova,28,Female,Married,1,DevOps Engineer,1,2022-08-17,3.0,No,Yes,1.0,1
+1089,Collin,Jordan,30,Male,Divorced,1,Engineering Manager,2,2024-06-02,4.0,Yes,Hybrid,7.0,1
+1274,Susan,Sanders,35,Female,Single,2,Senior Product Manager,1,2022-10-31,4.0,No,No,10.0,3
+1173,Mark,Lin,21,Female,Single,3,UX Designer,1,"October 29, 2024",4.0,No,Hybrid,18.0,4
+1615,Shane,Glass,34,Female,,1,Software Engineer,4,2025-04-16,3.0,Yes,Hybrid,1.0,2
+1104,Richard,Brown,21,Female,Single,1,Software Engineer,4,2021-05-20,4.0,No,Hybrid,2.0,1
+1681,Curtis,Singleton,27,Female,Single,1,DevOps Engineer,1,2024-09-04,2.0,Yes,No,2.0,0
+1726,Bradley,Gonzalez,30,Female,Married,1,DevOps Engineer,2,2025-01-20,3.0,No,Hybrid,13.0,1
+1046,Daniel,Burton,33,Male,Single,5,Marketing Specialist,3,2024-07-17,5.0,Yes,No,1.0,0
+1783,Yvonne,Higgins,31,Male,Single,2,Product Manager,2,"June 22, 2026",4.0,No,Hybrid,18.0,2
+1769,Rachel,Wallace,25,Female,Married,5,Content Marketer,5,2025-05-02,5.0,No,Hybrid,5.0,1
+1531,Renee,Jones,36,Male,Single,1,Software Engineer,4,2025-10-19,4.0,No,Hybrid,9.0,2
+1719,Marvin,Williams,39,Male,Single,4,Account Executive,2,2024-06-30,3.0,Yes,Hybrid,3.0,3
+1012,Matthew,Moore,28,Female,Married,2,Product Analyst,3,2024-09-20,3.0,No,Yes,60.0,4
+1215,Karen,Carrillo,22,Male,Divorced,2,Product Manager,1,2023-10-15,4.0,Yes,Yes,2.0,4
+1766,Justin,Hendricks,25,Male,Single,1,Engineering Manager,1,2023-05-16,2.0,No,Hybrid,3.0,0
+1148,Joyce,Arnold,22,Female,Single,4,Sales Manager,1,2024-05-11,3.0,No,Hybrid,11.0,1
+1300,Alejandro,Vaughan,31,Female,Single,4,Sales Manager,5,2026-05-04,5.0,No,Yes,16.0,3
+1505,Melanie,Gibson,200,Female,Single,1,QA Engineer,4,2025-10-31,1.0,No,Hybrid,24.0,2
+1648,Philip,Larson,30,Male,Single,1,Engineering Manager,1,2026-06-06,5.0,No,No,13.0,1
+1823,Patrick,Gilbert,21,Male,Divorced,1,  DevOps Engineer  ,1,2023-04-01,5.0,No,Hybrid,6.0,1
+1714,Cynthia,Zavala,32,Male,Married,1,DevOps Engineer,2,2024-12-31,4.0,Yes,Yes,13.0,2
+1644,Rebecca,Marks,31,Male,Married,4,Account Executive,5,2020-12-11,4.0,Yes,Yes,14.0,2
+1412,Elizabeth,Hoover,30,Male,Single,5,Growth Marketer,1,2024-12-05,2.0,No,Yes,16.0,2
+1174,Tammy,Ramirez,26,Male,Married,3,UI Designer,4,2024-09-29,4.0,No,Hybrid,26.0,4
+1777,David,Harris,40,Female,Single,5,Growth Marketer,4,2023-07-16,4.0,No,Hybrid,26.0,3
+1227,Thomas,Green,37,Male,Single,4,Sales Development Rep,3,2023-06-04,4.0,No,No,7.0,1
+1306,Heather,Torres,32,Female,Married,7,Operations Manager,5,2024-12-31,4.0,No,Hybrid,11.0,3
+1032,Angela,Cohen,32,Female,Married,1,DevOps Engineer,2,2025-04-29,,Yes,Hybrid,10.0,3
+1667,Samuel,Jenkins,23,Female,Single,5,Marketing Specialist,2,2021-04-09,3.0,Yes,Hybrid,1.0,1
+1351,Deborah,Kerr,31,Female,Single,3,UX Designer,2,2023-07-14,2.0,Yes,Yes,8.0,2
+1523,Kimberly,Palmer,31,Male,Single,1,QA Engineer,2,2025-03-16,4.0,Yes,Hybrid,16.0,1
+1286,Jasmine,Graham,35,Male,Single,1,DevOps Engineer,2,2024-03-10,4.0,Yes,No,1.0,0
+1347,Grace,Bradshaw,29,Female,Married,7,Operations Analyst,2,2025-07-24,4.0,Yes,Hybrid,,1
+1804,Anne,Bryan,40,Female,Married,6,Customer Success Associate,2,2025-07-07,4.0,No,Yes,12.0,2
+1117,Brooke,Leonard,32,Male,Single,2,Product Manager,1,2024-05-26,4.0,Yes,Yes,12.0,1
+1846,Sheila,Fischer,32,Female,Single,6,Customer Success Associate,1,2024-04-27,3.0,No,No,12.0,3
+1096,Robert,Ramirez,34,Female,Single,9,Accountant,5,2023-11-24,3.0,Yes,Hybrid,5.0,1
+1578,Ebony,Tucker,33,Male,Single,4,Sales Manager,4,2026-03-08,3.0,No,Hybrid,38.0,2
+1482,Lynn,Bentley,26,Female,Married,1,Software Engineer,2,2025-06-17,4.0,No,Yes,13.0,2
+1542,Matthew,Chavez,21,Female,Married,2,Senior Product Manager,2,2024-11-04,4.0,No,Yes,4.0,4
+1456,Tyler,Strong,28,Female,Married,5,Marketing Specialist,1,2025-05-26,4.0,No,No,3.0,2
+1365,Billy,Avila,21,Female,Single,1,QA Engineer,2,2021-05-16,3.0,Yes,No,4.0,1
+1474,Sydney,Taylor,24,Male,Married,2,Product Manager,2,2025-04-08,3.0,No,Yes,3.0,4
+1063,Aaron,Nguyen,23,Male,Single,5,Content Marketer,2,2026-04-09,3.0,No,Hybrid,19.0,1
+1205,Cynthia,Rogers,28,Female,Single,3,UX Designer,1,12/03/2024,4.0,No,Hybrid,10.0,2
+1604,Matthew,Cook,31,Female,Single,7,Operations Analyst,1,2025-09-25,4.0,No,Hybrid,9.0,3
+1185,Aaron,Frost,21,Male,Single,1,Engineering Manager,5,2023-10-17,4.0,Yes,No,5.0,3
+1092,Tracey,Garcia,38,Female,Single,5,  Marketing Specialist  ,3,2026-06-21,3.0,No,Hybrid,2.0,0
+1829,Kyle,Johnson,21,Female,Single,2,Product Manager,2,2022-10-21,3.0,No,No,8.0,2
+1450,Ashley,Andrews,30,Female,Married,3,UI Designer,1,2024-01-07,3.0,No,No,8.0,1
+1711,Alicia,Romero,28,Female,Single,1,QA Engineer,2,2025-05-06,4.0,No,No,3.0,0
+1030,Frank,Gray,31,Female,Single,1,Senior Software Engineer,3,2021-09-06,5.0,No,Yes,10.0,2
+1055,Shawn,Mckay,32,Male,Single,6,Customer Success Associate,4,2024-08-27,4.0,No,Yes,2.0,0
+1652,Maria,Rodgers,999,Male,Married,5,Growth Marketer,2,2023-09-04,3.0,No,Hybrid,27.0,4
+1865,Brandy,Jackson,25,Female,Single,1,Software Engineer,1,2024-11-09,1.0,Yes,Hybrid,28.0,2
+1734,Pamela,Paul,29,Female,Single,2,Product Analyst,1,2025-08-08,3.0,No,Hybrid,1.0,0
+1147,Dana,Green,36,Male,Single,2,Senior Product Manager,1,2024-10-05,4.0,No,Yes,18.0,5
+1222,Caitlin,Dodson,24,Non-binary,Married,4,Account Executive,5,2025-07-13,3.0,Yes,Hybrid,3.0,1
+1602,Brianna,Warren,21,Male,Married,2,Product Analyst,2,2023-01-13,3.0,No,Hybrid,4.0,2
+1673,Mary,Richardson,21,Male,Single,9,Finance Analyst,2,2025-07-30,3.0,Yes,Hybrid,59.0,5
+1771,Megan,Flores,32,Male,Married,1,QA Engineer,2,2024-12-22,2.0,No,Yes,8.0,3
+1475,Tammy,Dalton,37,Female,Married,1,DevOps Engineer,3,2023-08-27,3.0,No,No,7.0,3
+1810,Keith,Frye,24,Female,Single,4,Sales Manager,1,2025-01-17,2.0,Yes,Yes,4.0,0
+1166,Lisa,Adams,27,Female,Single,4,  Sales Development Rep  ,2,2026-03-29,1.0,Yes,Yes,8.0,3
+1285,Cynthia,Poole,27,Female,Single,4,Sales Manager,1,2026-06-11,4.0,No,No,2.0,1
+1081,Chad,Welch,27,Male,Single,1,QA Engineer,1,2024-11-14,4.0,No,No,34.0,1
+1228,John,Walsh,21,Female,Single,1,DevOps Engineer,2,2024-01-13,5.0,Yes,Hybrid,10.0,2
+1354,Kaitlyn,Carroll,25,Male,,2,  Product Manager  ,2,2023-03-03,4.0,Yes,Hybrid,1.0,0
+1311,John,Martinez,33,Female,Married,7,Operations Analyst,4,2024-02-16,3.0,Yes,No,11.0,2
+1260,Andrew,Ryan,26,Female,Divorced,1,Engineering Manager,2,25-04-2025,3.0,No,Hybrid,1.0,2
+1324,Monique,Andrews,26,Female,Married,1,DevOps Engineer,2,2024-06-01,3.0,No,No,2.0,1
+1010,Lisa,Smith,32,Male,Single,1,Senior Software Engineer,5,2019-11-11,4.0,No,Yes,3.0,7
+1653,Gina,Fox,23,Female,Single,2,Product Analyst,1,2022-11-28,5.0,No,No,2.0,1
+1574,Kimberly,Bradley,26,Male,Single,1,QA Engineer,2,2025-08-05,3.0,No,Hybrid,10.0,1
+1689,Joe,Vang,32,Female,Married,2,Senior Product Manager,1,2022-07-03,3.0,Yes,Hybrid,1.0,2
+1180,Daniel,Hamilton,25,Female,Single,1,QA Engineer,3,2022-03-25,5.0,No,No,3.0,0
+1028,Deborah,Lynch,27,Male,Married,4,Sales Manager,2,2023-08-21,5.0,No,Hybrid,1.0,1
+1393,Joshua,Davenport,23,Female,Single,2,Senior Product Manager,5,2021-11-15,3.0,No,Hybrid,19.0,1
+1675,Steven,Campbell,24,Male,Single,7,Operations Manager,4,2022-03-16,3.0,No,No,12.0,1
+1362,Mary,Johnston,26,Female,Single,3,UI Designer,1,2024-05-03,3.0,Yes,Hybrid,14.0,1
+1294,Steven,Bishop,34,Male,Single,6,Customer Success Associate,1,2022-03-07,4.0,No,Hybrid,27.0,0
+1668,Erica,Young,28,Female,Divorced,1,DevOps Engineer,1,2020-03-18,4.0,Yes,No,37.0,1
+1006,Jeffery,Wagner,35,Female,Married,7,Operations Analyst,2,2025-12-02,3.0,No,Yes,1.0,2
+1198,Aaron,Mitchell,29,Female,Married,4,  Sales Development Rep  ,2,2024-06-21,3.0,Yes,No,34.0,2
+1690,Nicholas,Johnson,32,Male,Married,7,Operations Analyst,4,2026-01-17,,No,Hybrid,5.0,3
+1688,Brian,Shaw,29,Male,Single,1,Senior Software Engineer,3,2026-06-13,3.0,No,No,14.0,3
+1585,Adrian,Turner,21,Male,Single,1,Software Engineer,3,2025-07-06,3.0,No,Yes,22.0,1
+1262,Debra,Harrington,34,Male,Married,6,Customer Success Associate,2,2025-04-03,3.0,Yes,Yes,2.0,1
+1458,Catherine,Gomez,30,Male,Single,2,Product Analyst,4,2025-02-04,4.0,Yes,Hybrid,,1
+1123,James,Moran,32,Female,Married,1,Senior Software Engineer,4,2026-06-29,3.0,No,Hybrid,1.0,2
+1555,Caroline,Bell,21,Male,Single,1,QA Engineer,2,2026-01-09,4.0,Yes,Hybrid,5.0,2
+1484,Angel,Henson,32,Male,Single,7,Operations Analyst,1,2025-02-11,2.0,No,Hybrid,9.0,5
+1039,Robin,Ellis,30,Female,Single,8,HR Business Partner,1,2021-07-31,,Yes,Hybrid,17.0,0
+1359,Bill,Reynolds,24,Female,Single,5,Marketing Specialist,3,2026-02-03,5.0,No,No,2.0,2
+1755,Michael,Reyes,32,Male,Married,1,Engineering Manager,4,2022-09-16,5.0,Yes,Hybrid,23.0,2
+1335,Alexandra,Hayes,26,Male,Married,2,Senior Product Manager,2,2024-09-09,1.0,Yes,No,14.0,0
+1594,Samantha,Atkins,28,Female,Single,3,Design Lead,2,2025-01-12,3.0,Yes,No,18.0,1
+1828,Xavier,Jimenez,24,Female,Single,3,UI Designer,1,2023-08-21,3.0,No,Hybrid,4.0,1
+1163,Angel,Doyle,31,Female,,4,Sales Manager,4,2024-01-25,4.0,No,Hybrid,3.0,3
+1068,Christopher,Tucker,36,Male,Single,4,Sales Manager,2,2025-07-11,2.0,Yes,No,13.0,3
+1125,Emily,Evans,21,Male,Single,2,Senior Product Manager,1,2023-02-28,3.0,Yes,No,4.0,3
+1040,Joseph,Wright,44,Male,Married,1,Software Engineer,1,2025-05-27,4.0,Yes,Yes,4.0,0
+1005,Robert,Johnson,27,Male,Single,4,Sales Development Rep,4,2023-10-02,5.0,Yes,No,5.0,3
+1034,Jeremy,Johnson,33,Female,Single,1,Senior Software Engineer,1,2024-03-04,2.0,No,Yes,4.0,0
+1526,Krista,Camacho,21,Female,Single,2,Product Analyst,3,2022-02-15,3.0,No,Yes,2.0,2
+1691,Sarah,Combs,30,Female,Single,3,  UI Designer  ,3,2024-04-24,3.0,No,Hybrid,3.0,1
+1336,Scott,Dalton,24,Female,Single,6,Customer Success Associate,2,2025-07-01,4.0,No,Yes,1.0,4
+1281,Ross,Wood,34,Male,,4,Sales Development Rep,3,"January 31, 2024",2.0,No,No,10.0,0
+1747,Whitney,Hill,30,Male,Single,4,Sales Development Rep,1,2023-11-09,3.0,No,No,15.0,1
+1100,Yvette,Huff,27,Male,Single,1,DevOps Engineer,1,2021-10-06,,Yes,No,9.0,2
+1640,Kristina,Holland,37,Male,Single,1,QA Engineer,1,2025-07-06,3.0,Yes,Hybrid,2.0,3
+1662,Benjamin,Rogers,21,Male,Married,1,Engineering Manager,1,2025-02-02,3.0,No,No,1.0,1
+1237,Robert,Clark,21,Female,Single,7,Operations Manager,3,2025-12-07,5.0,No,Yes,6.0,4
+1496,Robert,Garcia,36,Male,Single,5,Marketing Manager,2,2024-07-22,,No,No,22.0,1
+1545,Nicholas,Hernandez,26,Female,Single,1,DevOps Engineer,3,2025-01-27,5.0,Yes,Hybrid,16.0,3
+1538,Jacqueline,Farrell,30,Male,Single,8,Recruiter,4,2020-09-30,4.0,No,Hybrid,2.0,3
+1513,Dylan,Lester,32,Female,Single,1,Engineering Manager,4,2025-07-12,5.0,Yes,Hybrid,10.0,0
+1831,Tammy,Lewis,31,Female,Single,1,DevOps Engineer,1,2022-10-02,4.0,Yes,Hybrid,11.0,2
+1671,Amanda,Collins,36,Female,Married,1,Engineering Manager,3,2022-11-23,4.0,No,Hybrid,1.0,1
+1428,Samantha,Bright,29,Female,Single,1,DevOps Engineer,1,2026-04-27,3.0,Yes,No,3.0,2
+1659,Chris,Richard,24,Female,Married,4,Sales Development Rep,4,2024-12-04,2.0,No,Hybrid,1.0,2
+1798,Andrea,Martinez,30,Male,Single,5,Marketing Manager,1,2021-12-02,4.0,No,Hybrid,4.0,3
+1400,William,Hoover,21,Non-binary,Single,1,DevOps Engineer,1,11-05-2026,2.0,Yes,No,,1
+1554,Jennifer,Schmitt,23,Non-binary,Single,4,Account Executive,2,2024-04-17,4.0,No,No,17.0,2
+1415,Brittany,Kane,29,Male,Single,3,UI Designer,5,2024-08-20,1.0,No,Yes,15.0,3
+1353,Gabriel,Parker,43,Female,Married,4,Sales Development Rep,2,2025-06-27,2.0,Yes,No,4.0,2
+1580,Kari,Wilson,36,Male,Married,2,Product Manager,1,2024-08-21,4.0,No,No,16.0,2
+1736,Terri,Crawford,25,Female,Married,8,HR Business Partner,1,2024-12-07,3.0,No,Hybrid,6.0,2
+1013,Susan,Rogers,21,Female,Divorced,1,  Senior Software Engineer  ,2,2026-03-29,4.0,No,Yes,8.0,3
+1187,Judy,Lambert,28,Male,Married,4,Account Executive,3,2020-08-19,4.0,No,No,21.0,2
+1595,Barbara,Berry,27,Non-binary,Single,1,Software Engineer,2,2026-07-07,2.0,Yes,Hybrid,8.0,1
+1601,Megan,Sanchez,31,Male,Married,6,Customer Success Manager,1,04/08/2023,2.0,No,No,12.0,1
+1797,John,Reid,39,Female,Single,3,UI Designer,1,2024-12-31,3.0,Yes,Hybrid,7.0,0
+1375,Shawn,Edwards,23,Female,Married,4,Account Executive,3,2024-09-28,3.0,No,Yes,25.0,0
+1261,Zoe,Bell,21,Male,Divorced,1,QA Engineer,2,2021-12-30,3.0,Yes,No,14.0,4
+1468,Amber,Mata,39,Male,,1,Software Engineer,1,2025-12-20,3.0,No,Yes,8.0,3
+1334,Krystal,Perez,22,Male,Single,6,Customer Success Associate,2,2022-04-02,4.0,No,Yes,8.0,3
+1154,Kyle,Nolan,21,Female,,1,QA Engineer,2,2022-11-22,3.0,Yes,Yes,1.0,4
+1397,Natasha,Shields,28,Male,Single,4,Sales Manager,5,2023-04-13,4.0,No,No,7.0,0
+1605,Gary,Dixon,28,Male,Single,4,Sales Manager,1,2024-12-01,5.0,Yes,Hybrid,11.0,1
+1305,Christopher,Walker,27,Male,Single,1,QA Engineer,2,2025-02-24,3.0,No,Hybrid,25.0,1
+1201,Scott,Lewis,23,Female,Married,4,Sales Manager,1,2024-10-06,2.0,No,Hybrid,12.0,3
+1395,Andrea,Reyes,35,Female,Married,1,Senior Software Engineer,1,14-05-2026,2.0,Yes,Yes,9.0,2
+1838,Michael,Morales,23,Male,,1,Software Engineer,4,2025-06-07,,No,Yes,9.0,6
+1374,Lisa,Pierce,29,Male,Married,6,Customer Success Manager,1,2025-12-20,3.0,No,No,17.0,4
+1735,Patricia,Hughes,31,Female,Married,2,Senior Product Manager,2,2026-04-26,3.0,Yes,Hybrid,1.0,1
+1079,Matthew,Chapman,32,Female,Single,1,  Senior Software Engineer  ,3,2024-08-13,3.0,Yes,No,60.0,2
+1313,Amanda,Gill,33,Female,Married,1,Senior Software Engineer,1,2023-07-16,2.0,Yes,No,10.0,3
+1796,Patty,Singleton,31,Male,Married,5,Marketing Specialist,5,2025-06-16,3.0,Yes,No,34.0,1
+1437,George,Miller,21,Female,Single,6,Customer Success Manager,3,2023-10-02,4.0,No,Hybrid,11.0,2
+1639,Matthew,Harper,22,Female,Single,1,Software Engineer,3,2025-03-02,3.0,No,Hybrid,9.0,1
+1043,Reginald,Robinson,27,Male,Married,3,Design Lead,3,2025-02-09,3.0,No,Hybrid,24.0,2
+1808,Robert,Fowler,32,Female,Divorced,2,Product Manager,3,2025-09-09,4.0,Yes,Yes,7.0,2
+1134,Cheryl,Archer,29,Female,Divorced,6,Customer Success Associate,5,2025-11-30,4.0,No,Hybrid,27.0,1
+1759,Audrey,Moreno,36,Male,Single,2,Product Analyst,5,2023-04-18,3.0,No,No,15.0,2
+1390,Steven,Wilson,24,Male,,2,Senior Product Manager,1,2024-04-21,3.0,No,Hybrid,,3
+1745,Michael,Williams,21,Male,Married,5,Growth Marketer,1,2024-10-02,3.0,No,Yes,9.0,1
+1763,Paul,Hoffman,30,Male,Married,5,Marketing Manager,3,2024-05-12,4.0,No,Hybrid,14.0,2
+1572,Robert,Peterson,36,Male,Married,1,DevOps Engineer,2,2023-03-10,3.0,No,Yes,9.0,2
+1251,Cindy,Johnson,32,Male,Single,1,Senior Software Engineer,2,2021-11-16,3.0,Yes,Yes,16.0,2
+1619,Carlos,Ramos,30,Female,Married,1,DevOps Engineer,2,2023-01-01,5.0,Yes,No,13.0,4
+1743,Kirk,Morrison,33,Female,Single,8,Recruiter,4,2025-07-11,3.0,No,Hybrid,7.0,5
+1815,James,Lawson,25,Male,Married,6,Customer Success Associate,4,2024-10-15,2.0,No,No,8.0,2
+1193,Richard,Phillips,29,Male,Single,4,Sales Manager,3,2025-06-08,2.0,Yes,No,1.0,1
+1221,Elizabeth,Travis,32,Female,Married,1,Engineering Manager,4,2024-04-24,4.0,Yes,Hybrid,13.0,1
+1757,Erika,Rush,21,Female,Single,7,Operations Analyst,4,2025-06-05,4.0,Yes,Yes,7.0,2
+1600,Samantha,Davis,28,Male,Married,5,Content Marketer,4,2025-08-22,,Yes,No,13.0,1
+1698,Mary,Dunn,40,Female,Married,5,Growth Marketer,3,2024-09-07,2.0,No,Hybrid,1.0,2
+1433,Brandon,Flynn,26,Male,Married,6,Customer Success Associate,3,2023-08-23,4.0,No,No,2.0,2
+1524,Daniel,Gordon,33,Male,Married,1,QA Engineer,2,"July 28, 2021",4.0,Yes,Hybrid,4.0,2
+1658,Jeremy,Taylor,30,Male,Single,6,Customer Success Manager,4,"March 02, 2026",3.0,Yes,Hybrid,49.0,2
+1031,Veronica,Bowman,31,Male,Married,1,Software Engineer,3,2025-07-06,3.0,Yes,Yes,4.0,1
+1519,John,Morris,38,Female,Single,2,Product Analyst,5,2023-12-13,4.0,No,Yes,1.0,7
+1599,Christine,Collier,27,Male,Single,6,Customer Success Associate,2,2022-05-01,2.0,No,Yes,12.0,2
+1446,Danielle,Coleman,25,Male,Married,4,Sales Development Rep,2,2024-11-13,3.0,No,Hybrid,6.0,2
+1396,Sandra,Romero,36,Female,Divorced,2,Product Analyst,5,2024-12-05,1.0,No,Yes,18.0,2
+1158,Kimberly,Henson,30,Male,Single,6,Customer Success Associate,3,2023-09-05,3.0,Yes,Hybrid,2.0,2
+1834,Destiny,Ruiz,28,Male,Single,6,Customer Success Associate,2,2025-12-04,4.0,No,Hybrid,19.0,6
+1273,Larry,Byrd,34,Male,Single,4,Sales Manager,4,2024-10-23,5.0,Yes,Yes,15.0,5
+1845,Laura,Morgan,21,Male,Single,4,Account Executive,1,2026-04-09,2.0,No,No,1.0,1
+1529,Timothy,Morales,29,Male,Married,7,Operations Manager,5,01/11/2023,4.0,No,Yes,20.0,2
+1307,Bonnie,Kennedy,35,Female,Single,2,Product Manager,3,2026-01-26,3.0,No,Hybrid,5.0,2
+1378,Vanessa,Sandoval,26,Male,Married,1,DevOps Engineer,3,2019-10-15,4.0,Yes,Hybrid,2.0,0
+1660,Craig,Wise,-5,Male,Single,6,Customer Success Manager,5,2020-11-28,4.0,No,No,12.0,1
+1103,Todd,Lewis,35,Male,Married,5,Growth Marketer,1,2023-09-09,3.0,Yes,Hybrid,28.0,2
+1053,Joseph,Davidson,33,Non-binary,Married,1,DevOps Engineer,2,2026-05-10,3.0,No,Hybrid,8.0,1
+1157,John,Garcia,23,Male,Single,1,QA Engineer,3,2026-06-04,4.0,Yes,Yes,38.0,2
+1284,Daniel,Yu,33,Female,Single,9,Finance Analyst,2,2023-01-17,3.0,Yes,Hybrid,11.0,1
+1403,Tracy,Hernandez,36,Male,Married,1,Engineering Manager,2,2024-10-01,4.0,Yes,Hybrid,19.0,1
+1530,Gina,Henry,24,Female,Married,2,Product Manager,1,2025-07-11,,No,No,1.0,1
+1553,Karen,Parrish,29,Male,Single,1,DevOps Engineer,1,2025-09-30,3.0,No,Yes,3.0,4
+1098,Scott,Callahan,27,Male,Single,1,QA Engineer,1,2024-12-13,4.0,Yes,Hybrid,7.0,0
+1560,Audrey,Aguirre,29,Female,Married,2,Senior Product Manager,1,2024-11-19,4.0,Yes,Yes,14.0,1
+1129,Charles,Lewis,29,Male,Single,8,People Ops Associate,3,2023-03-04,3.0,Yes,Hybrid,8.0,1
+1379,Amy,Gutierrez,24,Male,Married,7,Operations Manager,1,2024-07-04,3.0,Yes,Yes,15.0,2
+1178,Tara,White,37,Male,Single,4,Sales Manager,2,2023-09-17,3.0,Yes,Yes,7.0,0
+1348,Kristin,Weber,21,Female,Single,4,Sales Development Rep,2,2021-07-22,3.0,No,Hybrid,12.0,1
+1111,Tanya,Riley,37,Female,Married,1,QA Engineer,5,2025-11-03,4.0,No,Hybrid,36.0,3
+1655,Michael,Cox,36,Female,Married,9,Finance Analyst,1,2024-02-28,3.0,No,No,60.0,2
+1380,Jacob,Cox,30,Male,Married,4,Sales Manager,2,2026-06-11,4.0,Yes,Hybrid,8.0,1
+1192,Kyle,Ortiz,21,Male,Single,8,People Ops Associate,2,2025-03-22,4.0,Yes,No,1.0,4
+1420,Terrance,Costa,26,Male,Single,2,Senior Product Manager,2,2023-06-22,3.0,No,Hybrid,1.0,1
+1204,Christopher,Robertson,31,Female,Married,1,QA Engineer,3,2025-04-01,3.0,Yes,Yes,9.0,1
+1344,Brittney,Carter,41,Male,Married,3,UI Designer,2,2024-11-06,4.0,No,No,13.0,0
+1633,Matthew,Klein,26,Male,Married,1,QA Engineer,4,2021-04-27,4.0,No,Hybrid,36.0,1
+1143,Tracy,Whitehead,37,Female,Single,7,Operations Analyst,4,2024-01-01,3.0,No,No,11.0,3
+1706,John,Thomas,31,Female,Divorced,8,HR Business Partner,2,2022-01-22,3.0,Yes,No,,2
+1007,Anthony,Gonzalez,24,Male,Single,7,Operations Analyst,2,2022-12-01,2.0,No,No,3.0,2
+1550,Brenda,Hoffman,34,Male,Single,2,Senior Product Manager,2,2022-11-21,3.0,Yes,Hybrid,52.0,3
+1268,Holly,Wang,25,Male,Married,1,Senior Software Engineer,2,2022-01-19,3.0,No,Yes,3.0,1
+1680,Morgan,Spencer,30,Male,Single,4,Sales Manager,2,2025-12-17,4.0,No,No,14.0,1
+1489,Donald,Shah,36,Male,Divorced,5,Growth Marketer,1,2022-04-04,4.0,Yes,No,17.0,2
+1238,Robert,Stein,22,Male,Single,2,  Product Analyst  ,2,2024-12-30,3.0,Yes,Yes,2.0,1
+1730,Karen,Lee,44,Non-binary,Single,5,Marketing Manager,3,2026-03-23,4.0,No,Hybrid,2.0,2
+1591,Martha,Drake,31,Female,Single,3,Design Lead,2,2026-06-04,3.0,Yes,No,11.0,1
+1672,Lindsey,Harrison,27,Male,Married,1,DevOps Engineer,2,2025-06-08,3.0,No,Yes,4.0,2
+1401,Justin,Evans,37,Male,Divorced,5,Growth Marketer,2,2024-07-27,,No,Hybrid,27.0,1
+1384,Samuel,Wolfe,24,Female,Married,4,Sales Manager,2,2024-12-10,3.0,No,No,5.0,2
+1059,Kenneth,Fowler,21,Male,Married,3,UX Designer,3,2025-05-24,3.0,Yes,Hybrid,6.0,1
+1802,Donna,Le,23,Male,Single,6,Customer Success Associate,1,2024-07-07,3.0,Yes,Yes,2.0,1
+1233,Amber,Taylor,24,Male,Single,1,Software Engineer,2,2023-09-09,4.0,No,Hybrid,19.0,3
+1807,Debra,Wang,35,Male,Married,5,Growth Marketer,2,2026-01-19,4.0,Yes,No,19.0,2
+1721,Gregory,Maxwell,25,Female,Single,3,UX Designer,3,2021-01-08,3.0,No,Hybrid,12.0,3
+1443,Rachel,Byrd,30,Female,Married,1,DevOps Engineer,2,2023-12-27,4.0,No,Hybrid,18.0,5
+1099,Andrea,Williams,33,Male,Married,4,Sales Manager,2,2021-03-01,5.0,Yes,No,15.0,2
+1860,Laura,Swanson,28,Male,Married,3,UX Designer,1,2020-09-17,3.0,No,Hybrid,3.0,2
+1512,Molly,Murphy,39,Male,Single,4,Sales Development Rep,3,2023-02-22,3.0,No,Yes,1.0,0
+1539,Debra,Mack,34,Male,Married,1,Software Engineer,1,2025-05-29,5.0,Yes,No,5.0,3
+1218,April,Williams,29,Male,Single,1,DevOps Engineer,3,2025-04-24,4.0,Yes,No,1.0,2
+1361,Christopher,Hayden,30,Female,Single,5,Marketing Specialist,1,05/23/2025,3.0,Yes,Yes,1.0,2
+1642,Erika,Mitchell,21,Male,Single,4,Sales Development Rep,2,06-02-2024,4.0,No,Hybrid,11.0,1
+1844,Theresa,Long,26,Male,,6,Customer Success Associate,1,2024-10-29,4.0,Yes,Hybrid,15.0,1
+1226,Phyllis,Manning,26,Female,Married,5,Marketing Specialist,1,2024-12-19,4.0,No,No,1.0,2
+1019,Maria,Montgomery,25,Female,Married,2,Senior Product Manager,4,2021-12-17,3.0,No,No,10.0,1
+1169,Jeffrey,Velasquez,30,Female,Married,4,Sales Development Rep,5,2026-05-07,3.0,Yes,Yes,1.0,0
+1293,Nicole,Sanchez,30,Male,Divorced,4,Account Executive,1,2023-11-03,,Yes,Hybrid,20.0,3
+1598,Mark,Solis,29,Male,Married,1,Software Engineer,4,2025-08-11,3.0,Yes,No,4.0,3
+1398,Joshua,Tyler,28,Male,Married,2,Product Analyst,2,2023-01-12,4.0,Yes,No,9.0,0
+1329,Charles,Soto,31,Male,Single,4,Account Executive,1,2025-10-13,2.0,Yes,Hybrid,,2
+1676,Patrick,Rose,21,Female,Married,4,Account Executive,3,2025-10-21,4.0,Yes,Hybrid,17.0,3
+1552,Michael,Ortega,37,Female,Single,2,Senior Product Manager,5,2025-09-14,,Yes,Hybrid,6.0,0
+1094,Michelle,Wright,31,Female,Married,2,Product Manager,2,2023-10-02,3.0,No,Yes,11.0,1
+1214,Diana,Smith,21,Female,Single,6,Customer Success Associate,3,2026-03-09,3.0,No,Yes,5.0,0
+1338,Christine,Lynch,32,Male,Divorced,1,DevOps Engineer,2,2025-06-23,3.0,No,No,10.0,0
+1426,Monique,Johnson,25,Female,Married,5,Marketing Specialist,3,2023-11-20,3.0,Yes,Hybrid,3.0,3
+1701,Kevin,Williams,36,Male,Married,6,Customer Success Associate,2,2023-06-23,4.0,Yes,No,1.0,2
+1116,Christopher,Lopez,36,Female,Single,1,  QA Engineer  ,2,2025-04-05,3.0,Yes,No,23.0,1
+1159,Richard,Oliver,30,Female,Married,4,Sales Manager,3,2021-07-23,3.0,No,No,20.0,1
+1586,Jason,Taylor,41,Female,Single,2,Senior Product Manager,5,2024-10-20,4.0,No,Hybrid,,1
+1113,Brian,Silva,30,Male,Single,7,Operations Analyst,2,2024-06-10,3.0,No,Hybrid,1.0,2
+1037,Nancy,Edwards,21,Male,Married,1,Senior Software Engineer,5,2023-12-03,4.0,Yes,No,3.0,0
+1106,Joseph,Bowers,27,Male,Married,1,Senior Software Engineer,3,2023-04-05,2.0,Yes,Yes,16.0,1
+1363,Stephanie,Key,27,Female,Divorced,1,Senior Software Engineer,4,2022-08-15,3.0,No,Yes,9.0,4
+1366,Thomas,Pearson,28,Male,Married,6,Customer Success Associate,1,2020-11-04,3.0,No,Yes,3.0,3
+1442,Albert,Ballard,21,Female,Divorced,2,Senior Product Manager,1,2024-11-18,5.0,No,No,10.0,3
+1352,Margaret,Jones,26,Male,Married,1,QA Engineer,2,2023-09-12,2.0,No,Hybrid,3.0,4
+1857,Kevin,Cabrera,29,Female,Single,4,Account Executive,4,2025-04-04,3.0,No,Hybrid,16.0,2
+1250,Tanner,Anderson,27,Male,Single,4,Sales Development Rep,2,2022-01-17,4.0,No,Hybrid,9.0,1
+1746,Molly,Gomez,21,Male,Single,5,Marketing Manager,1,2024-10-12,1.0,Yes,Yes,53.0,2
+1731,Michael,Norman,37,Female,Single,4,Sales Development Rep,2,2022-04-10,3.0,Yes,No,24.0,1
+1407,Jacob,Terry,38,Female,Married,6,Customer Success Manager,1,"January 24, 2025",,No,No,7.0,2
+1749,Charles,Walsh,25,Female,Single,4,Account Executive,1,2025-09-01,3.0,No,Yes,32.0,2
+1165,Leah,Shields,33,Non-binary,Married,7,Operations Manager,4,2021-08-25,3.0,Yes,Yes,60.0,4
+1770,Christopher,Fleming,23,Female,Single,6,Customer Success Manager,2,2026-03-11,3.0,No,Yes,19.0,6
+1710,Theresa,Jones,27,Male,Single,4,Account Executive,3,2025-02-13,4.0,Yes,Yes,3.0,5
+1725,Stephen,Carter,28,Female,Single,4,Sales Development Rep,1,2023-04-16,3.0,Yes,No,13.0,1
+1084,John,Caldwell,34,Male,Single,1,Senior Software Engineer,3,2019-11-12,2.0,No,Yes,1.0,1
+1613,Kendra,Snyder,24,Male,Married,4,Sales Development Rep,2,2024-09-08,4.0,No,No,5.0,5
+1296,Melissa,White,21,Female,Married,7,Operations Analyst,3,2024-06-17,3.0,Yes,Hybrid,4.0,2
+1071,Thomas,Pierce,29,Male,Married,5,Growth Marketer,4,2021-12-02,3.0,No,Hybrid,13.0,3
+1583,Elizabeth,Williams,34,Female,Single,5,Growth Marketer,2,2026-07-15,4.0,Yes,Hybrid,4.0,0
+1813,Charles,Brown,29,Male,Married,1,Software Engineer,4,2025-06-17,3.0,No,No,3.0,3
+1758,Nathan,Hines,29,Male,,5,Growth Marketer,5,2023-09-15,2.0,Yes,No,1.0,4
+1756,Ashley,Jacobs,34,Female,Single,1,DevOps Engineer,3,2024-02-15,3.0,Yes,Yes,19.0,1
+1128,Yolanda,Ferrell,34,Male,Married,1,Engineering Manager,4,2022-03-03,4.0,Yes,Hybrid,1.0,2
+1737,Tyler,Glass,24,Female,Married,1,  QA Engineer  ,1,2024-09-27,4.0,Yes,No,41.0,2
+1002,Joshua,Walker,38,Male,Divorced,4,Sales Development Rep,2,2025-01-27,4.0,No,No,1.0,1
+1575,Christopher,Williams,25,Male,Married,3,UX Designer,2,2023-09-08,2.0,No,Yes,19.0,1
+1540,Jennifer,Lewis,23,Male,Single,4,Sales Manager,2,2023-07-03,3.0,No,Hybrid,15.0,1
+1309,Julie,Rivera,24,Male,Single,4,Account Executive,1,2024-10-03,4.0,No,Hybrid,20.0,2
+1411,Lisa,Hughes,21,Non-binary,Married,6,Customer Success Manager,2,2023-04-23,3.0,Yes,Yes,16.0,3
+1172,Andrew,Lee,27,Male,Single,2,Senior Product Manager,3,2022-12-11,3.0,No,Yes,1.0,3
+1418,Jennifer,Ortiz,34,Male,Divorced,1,DevOps Engineer,3,2023-09-17,3.0,Yes,No,4.0,2
+1664,Nicholas,Martin,22,Male,Married,5,Content Marketer,3,2025-04-16,3.0,No,No,42.0,1
+1461,Donna,Massey,23,Male,Married,1,Engineering Manager,1,2026-01-11,5.0,Yes,No,1.0,2
+1760,Raymond,Banks,31,Female,Single,6,Customer Success Manager,4,2024-12-30,3.0,No,Yes,6.0,3
+1424,Norman,Stewart,32,Female,Divorced,1,Engineering Manager,2,2019-09-20,3.0,No,No,11.0,0
+1316,Tiffany,Warren,22,Female,Married,4,Sales Manager,3,2024-09-04,4.0,Yes,No,8.0,1
+1377,Richard,Robertson,21,Male,Married,4,Sales Development Rep,1,2022-06-14,,No,Hybrid,2.0,1
+1525,Sonia,Williams,33,Male,Divorced,5,Growth Marketer,1,2024-12-09,3.0,No,Yes,26.0,2
+1761,John,Wilson,23,Female,Married,3,UI Designer,4,2022-12-23,3.0,Yes,Yes,17.0,2
+1439,John,Durham,37,Female,Married,4,  Sales Development Rep  ,2,2025-08-14,2.0,Yes,No,1.0,3
+1856,Amanda,Erickson,25,Male,Single,2,Senior Product Manager,3,2025-08-23,4.0,No,Hybrid,10.0,2
+1151,Rebecca,Gardner,21,Male,Married,5,Growth Marketer,4,2025-11-15,3.0,No,Hybrid,14.0,2
+1247,Ryan,Johnson,29,Male,Single,6,Customer Success Associate,2,2023-11-16,2.0,Yes,No,6.0,0
+1557,Diane,Walker,37,Male,Married,4,Sales Manager,3,25-04-2025,3.0,No,Hybrid,5.0,2
+1705,Allen,Robertson,29,Female,Married,2,Product Manager,3,2024-10-07,3.0,Yes,No,25.0,4
+1410,Julie,Thornton,30,Male,Married,2,Product Manager,2,2026-07-02,3.0,Yes,Yes,10.0,2
+1144,Meghan,Davis,21,Male,Single,3,UI Designer,1,"February 05, 2023",3.0,Yes,Hybrid,2.0,5
+1527,Adrienne,Ellis,36,Female,Married,1,Software Engineer,1,2022-10-04,4.0,No,No,26.0,1
+1851,Catherine,Robertson,21,Female,Single,7,Operations Manager,4,2021-07-05,3.0,No,Yes,10.0,2
+1717,Jessica,Fuller,32,Male,Married,3,Design Lead,2,2022-03-18,3.0,No,Yes,2.0,3
+1724,Bryan,Parsons,24,Female,Single,3,Design Lead,1,2025-12-31,2.0,No,Hybrid,6.0,1
+1209,John,Alvarez,37,Male,Single,4,Sales Development Rep,4,2025-03-11,4.0,No,Hybrid,21.0,2
+1441,Jonathan,Scott,31,Male,Single,2,Senior Product Manager,1,2024-11-17,3.0,No,Hybrid,1.0,2
+1132,Mike,Moore,29,Male,Divorced,5,Marketing Manager,3,2026-01-21,3.0,Yes,No,2.0,1
+1381,Katherine,Garrett,34,Male,Married,5,Marketing Manager,1,2024-08-30,3.0,Yes,No,22.0,2
+1175,Darlene,Ross,28,Male,Married,6,Customer Success Associate,1,2024-01-03,3.0,Yes,No,19.0,0
+1534,Cynthia,Kelley,39,Female,Married,1,DevOps Engineer,2,2024-10-18,,No,Yes,1.0,1
+1271,Lori,Oconnell,27,Female,Divorced,3,UI Designer,4,2025-06-03,3.0,No,Hybrid,2.0,5
+1408,Ashley,Hall,27,Female,Single,3,UI Designer,3,2021-11-08,2.0,Yes,No,9.0,1
+1623,Brian,Decker,44,Male,Married,1,  Engineering Manager  ,2,2025-01-13,3.0,Yes,Hybrid,5.0,2
+1124,John,Foster,21,Male,Single,4,Sales Manager,4,2023-06-27,,Yes,Hybrid,17.0,3
+1139,Daniel,Tran,36,Male,Married,4,Sales Development Rep,5,2022-02-18,,Yes,Hybrid,16.0,2
+1052,Erin,Herrera,21,Male,,9,Finance Analyst,3,2023-01-26,3.0,Yes,Hybrid,15.0,2
+1276,Hannah,Burton,31,Female,Married,5,Marketing Specialist,1,2024-04-09,3.0,No,Yes,36.0,2
+1850,Thomas,Bryant,27,Male,Single,5,Marketing Manager,2,2024-08-27,,No,Hybrid,,2
+1343,Aaron,Hayes,21,Female,Single,1,DevOps Engineer,2,2024-12-04,3.0,No,No,12.0,3
+1257,Kathleen,Gray,26,Female,Single,3,UI Designer,1,2020-06-10,5.0,No,No,14.0,0
+1183,Paul,Ray,26,Male,Single,4,Sales Manager,4,2023-11-14,3.0,No,Yes,1.0,5
+1301,Christopher,Cortez,21,Male,Single,1,  Senior Software Engineer  ,2,2025-04-17,3.0,Yes,Hybrid,10.0,3
+1806,Darlene,Ray,29,Female,Married,3,UX Designer,1,2026-03-01,4.0,Yes,Yes,27.0,0
+1241,Omar,Smith,33,Female,Single,8,Recruiter,3,2025-10-28,4.0,Yes,No,7.0,2
+1231,Chris,Mitchell,34,Male,Married,1,Software Engineer,1,2021-09-07,4.0,Yes,Yes,5.0,2
+1327,Shelley,Woods,24,Male,,6,Customer Success Associate,1,2025-02-25,3.0,Yes,Yes,14.0,5
+1459,Dana,Oliver,29,Male,Single,5,Marketing Manager,2,2022-01-12,2.0,Yes,Yes,4.0,1
+1466,Kenneth,Burgess,33,Male,Married,4,Sales Development Rep,3,2025-12-13,2.0,Yes,Yes,1.0,2
+1164,Martin,Galvan,32,Female,Married,1,QA Engineer,3,2022-08-30,2.0,No,No,6.0,1
+1168,Monica,Garrison,30,Female,Married,1,Engineering Manager,2,2025-04-08,2.0,No,No,35.0,1
+1146,Adam,Wise,26,Female,Married,1,Engineering Manager,2,2020-01-25,3.0,Yes,Yes,1.0,1
+1207,Emily,Walker,28,Non-binary,,3,UX Designer,1,2024-01-22,4.0,Yes,Hybrid,,2
+1501,Cory,Jennings,29,Male,Married,5,Marketing Specialist,2,2022-11-24,5.0,No,Hybrid,13.0,1
+1189,Elizabeth,Rivera,40,Male,Married,2,Product Manager,3,2023-01-30,3.0,No,Hybrid,6.0,3
+1325,Taylor,Alexander,30,Male,Married,2,Product Manager,3,2025-10-08,4.0,No,Hybrid,1.0,4
+1744,Ronald,Norris,24,Female,Single,7,Operations Analyst,1,2019-08-01,3.0,No,Yes,9.0,2
+1786,Teresa,Day,27,Female,Single,4,Sales Manager,3,2025-05-09,2.0,No,No,12.0,5
+1576,Eric,Williamson,32,Female,Married,6,Customer Success Manager,3,2022-02-19,2.0,No,Hybrid,48.0,4
+1080,Jerry,Robinson,21,Male,Divorced,6,Customer Success Manager,1,"June 21, 2025",4.0,No,Yes,16.0,2
+1727,Bobby,Mahoney,21,Male,Single,4,Account Executive,3,2024-04-27,3.0,No,Hybrid,11.0,3
+1794,Marcus,Fletcher,27,Male,Married,1,DevOps Engineer,1,2021-02-10,5.0,No,Hybrid,12.0,1
+1741,Amy,Morris,21,Non-binary,Divorced,3,UI Designer,2,2020-08-23,,No,Hybrid,,3
+1230,Courtney,Hill,25,Male,Single,2,Product Manager,4,2025-02-06,3.0,No,Yes,9.0,3
+1678,Laurie,Taylor,30,Female,Married,1,QA Engineer,1,2024-10-22,,No,Hybrid,2.0,3
+1101,Tanya,House,38,Male,Married,1,Senior Software Engineer,4,2026-05-23,3.0,Yes,Hybrid,2.0,1
+1291,Joseph,Christian,22,Male,Married,1,Senior Software Engineer,3,2025-09-22,2.0,No,No,36.0,1
+1445,Michael,Matthews,43,Non-binary,Divorced,3,UX Designer,2,2021-11-06,5.0,No,Hybrid,5.0,4
+1833,Troy,Khan,34,Female,Single,5,Marketing Specialist,3,2026-05-19,3.0,Yes,Yes,16.0,2
+1054,Daniel,Graham,30,Non-binary,Single,7,Operations Manager,4,2025-01-24,3.0,Yes,Hybrid,3.0,3
+1392,Jennifer,Hicks,25,Female,Married,7,Operations Analyst,2,2024-09-16,4.0,No,Yes,8.0,2
+1756,Ashley,Jacobs,34,Female,Single,1,DevOps Engineer,3,2024-02-15,3.0,Yes,Yes,19.0,1
+1807,Debra,Wang,35,Male,Married,5,Growth Marketer,2,2026-01-19,4.0,Yes,No,19.0,2
+1252,Phillip,Elliott,23,Female,Single,1,Engineering Manager,1,16-09-2023,2.0,No,Hybrid,25.0,4
+1500,Stephanie,Foley,35,Male,Married,1,  Software Engineer  ,2,2025-07-30,2.0,No,Hybrid,31.0,2
+1476,Jennifer,Whitney,28,Non-binary,,5,Marketing Specialist,2,2026-07-04,5.0,No,Hybrid,1.0,3
+1272,Daniel,Johnson,23,Male,Single,6,Customer Success Associate,2,2023-06-09,3.0,Yes,Yes,1.0,5
+1045,Christopher,Williams,30,Male,Married,4,Sales Manager,3,2025-03-24,4.0,Yes,Hybrid,5.0,3
+1114,Wesley,Farrell,24,Male,Married,8,People Ops Associate,4,12/18/2025,4.0,No,No,13.0,1
+1025,Cynthia,Diaz,34,Female,Single,5,Growth Marketer,2,2021-11-11,4.0,No,Hybrid,1.0,1
+1212,James,Horton,28,Female,Married,3,UI Designer,1,2023-05-30,1.0,No,No,11.0,1
+1621,Brian,Romero,41,Female,Single,4,Account Executive,3,2025-05-11,3.0,Yes,No,7.0,2
+1170,Steven,Torres,34,Female,Single,1,QA Engineer,4,2023-04-25,4.0,No,Yes,27.0,3
+1592,Charles,Hensley,23,Male,Divorced,2,Senior Product Manager,4,2024-05-05,4.0,No,Hybrid,9.0,3
+1854,Jodi,Evans,31,Male,Married,6,Customer Success Manager,2,2022-07-08,4.0,No,Hybrid,27.0,4
+1597,Darius,Smith,29,Female,Divorced,6,Customer Success Associate,5,2024-02-29,4.0,Yes,No,17.0,1
+1521,Judy,Fox,26,Male,Single,1,DevOps Engineer,2,2026-02-25,3.0,No,Yes,,2
+1033,Megan,Parsons,21,Non-binary,,7,Operations Manager,1,2024-12-13,4.0,No,No,2.0,3
+1612,Diana,Thompson,21,Male,Married,1,DevOps Engineer,2,2026-01-23,3.0,No,Hybrid,20.0,1
+1110,Eric,Phillips,32,Male,Single,4,Sales Development Rep,3,2025-01-01,1.0,No,Yes,37.0,1
+1137,Elizabeth,Mcmillan,24,Female,Single,1,QA Engineer,2,2020-11-17,3.0,No,No,3.0,7
+1331,Anna,Torres,30,Male,Single,5,Growth Marketer,5,2025-08-22,3.0,No,No,39.0,0
+1223,Patricia,Salazar,32,Male,Married,2,Product Analyst,2,2023-04-24,4.0,Yes,Yes,13.0,1
+1029,George,Daniel,22,Male,Married,1,Senior Software Engineer,1,2025-04-19,3.0,Yes,Yes,2.0,1
+1288,Joseph,Morton,33,Male,Single,5,Content Marketer,1,2022-06-01,4.0,No,Yes,50.0,2
+1056,Nancy,Baker,41,Female,Single,2,Product Manager,3,2022-02-25,4.0,No,Hybrid,21.0,3
+1774,Melissa,Joseph,29,Female,Single,1,Engineering Manager,2,2026-06-28,5.0,No,Hybrid,26.0,1
+1792,Brian,Martinez,31,Female,Divorced,3,Design Lead,1,2024-05-07,3.0,No,Hybrid,17.0,1
+1049,Wendy,Rice,34,Female,,4,Account Executive,2,2023-09-22,4.0,No,Hybrid,17.0,5
+1795,Michael,Everett,21,Male,Married,5,Growth Marketer,2,2026-03-13,3.0,No,Hybrid,6.0,2
+1859,Tina,Silva,31,Non-binary,Married,7,Operations Analyst,2,2025-12-21,,Yes,Hybrid,13.0,4
+1643,Jennifer,Douglas,34,Male,Single,3,UI Designer,2,2020-03-06,4.0,No,Yes,6.0,0
+1546,Sandra,Jones,25,Male,Married,6,Customer Success Associate,1,2024-12-10,3.0,Yes,Hybrid,29.0,3
+1478,Michael,Gibbs,37,Female,Divorced,3,Design Lead,3,2025-02-07,3.0,Yes,Yes,13.0,5
+1548,Colin,Rodgers,35,Female,,2,Product Analyst,1,2024-08-20,3.0,No,Yes,32.0,1
+1064,Andrew,Hickman,29,Female,Married,4,Sales Manager,3,2022-09-07,4.0,Yes,Hybrid,9.0,3
+1414,Benjamin,Shaw,30,Female,Single,1,  Engineering Manager  ,4,22-09-2023,4.0,Yes,Hybrid,32.0,1
+1385,David,Dudley,21,Male,Single,6,Customer Success Manager,1,2023-07-05,3.0,Yes,Hybrid,2.0,1
+1781,Andrea,Salazar,24,Non-binary,Single,5,Content Marketer,4,2025-11-22,3.0,No,Hybrid,6.0,3
+1323,Miranda,Henry,31,Female,,4,Account Executive,4,2024-03-04,5.0,No,Hybrid,4.0,1
+1452,Tiffany,Barrett,26,Female,Single,1,Senior Software Engineer,1,2025-07-06,3.0,No,Hybrid,1.0,1
+1682,Melissa,Mitchell,28,Male,Single,5,Marketing Manager,3,2024-07-10,3.0,No,Hybrid,10.0,3
+1235,Jasmine,Brown,23,Male,Single,7,Operations Manager,1,2023-08-29,,Yes,No,21.0,2
+1657,Stacey,Tucker,37,Male,Married,1,QA Engineer,3,2025-07-02,3.0,No,Yes,9.0,2
+1558,Daniel,Bruce,26,Female,Married,5,Marketing Manager,1,2025-03-27,3.0,No,No,,3
+1463,Debbie,Parker,25,Male,Single,9,Finance Analyst,4,2023-09-21,3.0,Yes,Yes,6.0,2
+1425,Jennifer,Malone,21,Female,Married,7,Operations Manager,2,2024-04-04,4.0,No,Hybrid,2.0,5
+1773,Amber,Vance,36,Female,Single,7,Operations Analyst,1,2025-04-17,3.0,Yes,Yes,48.0,2
+1304,Travis,Mcguire,22,Male,Single,4,Sales Development Rep,2,2024-11-13,4.0,Yes,No,5.0,1
+1776,Laura,Hicks,27,Male,Single,5,Growth Marketer,5,2025-03-22,2.0,No,No,9.0,3
+1220,Stephen,Solis,32,Male,Married,1,Senior Software Engineer,2,2024-12-12,3.0,No,No,3.0,1
+1764,Jose,Green,27,Female,Single,1,Senior Software Engineer,2,2021-04-28,4.0,Yes,Hybrid,1.0,2
+1297,Jason,Salinas,23,Male,Married,8,  People Ops Associate  ,2,2026-04-20,4.0,Yes,No,4.0,5
+1022,Jeremy,Roberts,21,Female,Single,1,DevOps Engineer,4,2025-08-16,5.0,No,Hybrid,3.0,3
+1421,Matthew,Schwartz,42,Male,Married,9,Accountant,3,2023-11-05,3.0,No,Hybrid,5.0,2
+1326,Jack,Williams,31,Female,Single,2,Senior Product Manager,1,30-12-2022,3.0,Yes,No,15.0,2
+1200,Diana,Marshall,39,Male,Married,1,Senior Software Engineer,3,2025-06-15,4.0,No,Hybrid,27.0,3
+1451,Victoria,Phillips,23,Male,Single,1,Software Engineer,3,2022-06-05,3.0,No,No,7.0,1
+1138,Dennis,Wilson,36,Male,Single,4,Sales Development Rep,4,2024-07-22,5.0,No,Yes,55.0,2
+1537,Catherine,Garcia,25,Female,Single,4,Sales Development Rep,1,2022-05-04,1.0,No,No,2.0,1
+1697,Christian,Scott,36,Non-binary,Married,5,Content Marketer,3,"February 19, 2025",3.0,No,Hybrid,16.0,4
+1647,Tammy,Hale,33,Male,Married,4,Sales Manager,1,2025-07-11,3.0,No,Hybrid,3.0,1
+1629,Lisa,Pearson,24,Male,Single,7,Operations Manager,3,2023-12-14,3.0,Yes,Hybrid,3.0,1
+1213,Troy,Sanchez,28,Male,Single,7,Operations Manager,1,2024-07-05,5.0,Yes,No,1.0,5
+1847,James,Hicks,24,Male,Single,1,Senior Software Engineer,2,2026-02-24,,Yes,No,11.0,1
+1822,Colin,Roberts,31,Male,Divorced,4,Account Executive,1,2022-01-03,3.0,Yes,Hybrid,40.0,0
+1811,Timothy,Ballard,21,Male,Married,1,Senior Software Engineer,1,2022-02-21,4.0,Yes,Hybrid,16.0,2
+1506,Elizabeth,May,28,Male,Single,3,UI Designer,5,2024-02-18,4.0,No,Hybrid,3.0,2
+1712,Vanessa,Spencer,38,Male,Married,1,Software Engineer,1,2023-10-15,3.0,No,Hybrid,18.0,4
+1232,Joseph,Flores,35,Non-binary,Married,9,Accountant,2,2025-01-09,3.0,No,Yes,14.0,0
+1406,Stanley,Morris,32,Male,,1,Senior Software Engineer,1,2025-01-07,,Yes,Yes,11.0,4
+1569,Richard,Thomas,28,Male,Single,4,Sales Manager,3,2021-10-12,2.0,No,Yes,5.0,4
+1318,James,Perez,29,Female,Single,4,Account Executive,3,2021-05-06,4.0,Yes,Hybrid,5.0,3
+1184,Jonathan,Fletcher,31,Female,,1,QA Engineer,4,2023-09-14,3.0,No,Yes,1.0,1
+1787,Shannon,Frazier,31,Male,Married,3,UI Designer,1,2024-05-18,5.0,Yes,Hybrid,11.0,2
+1260,Andrew,Ryan,26,Female,Divorced,1,Engineering Manager,2,2025-04-25,3.0,No,Hybrid,1.0,2
+1694,Maria,Horton,21,Male,Single,1,QA Engineer,4,2022-03-22,3.0,Yes,Yes,21.0,1
+1610,Dwayne,Gonzalez,28,Male,Single,2,Product Analyst,2,2021-12-22,3.0,No,Hybrid,11.0,2
+1627,Angela,Conner,29,Male,Married,5,Marketing Specialist,1,2025-03-20,3.0,No,No,4.0,2
+1486,Jeffrey,Brown,23,Male,Single,4,Sales Development Rep,1,2024-05-23,3.0,No,Hybrid,7.0,2
+1279,David,Riggs,37,Male,Married,1,Senior Software Engineer,1,2024-04-09,3.0,Yes,No,26.0,2
+1631,Edward,Brown,37,Male,Married,6,Customer Success Manager,1,2026-03-30,5.0,Yes,No,1.0,3
+1021,Janet,Williams,36,Female,Married,3,Design Lead,1,2023-04-04,4.0,Yes,No,6.0,1
+1171,Laura,Perez,25,Male,Single,7,  Operations Analyst  ,1,2024-07-28,4.0,Yes,Yes,43.0,2
+1402,Brenda,Duarte,26,Male,Single,1,Engineering Manager,1,2024-05-23,3.0,No,Yes,4.0,1
+1814,Scott,Washington,31,Male,Married,6,  Customer Success Manager  ,2,2022-04-04,3.0,Yes,Yes,18.0,3
+1567,Matthew,Smith,35,Male,Single,1,DevOps Engineer,4,2022-06-02,4.0,No,No,4.0,5
+1177,Sheila,Wilson,31,Male,Married,4,Sales Manager,4,2023-07-20,3.0,No,Hybrid,17.0,2
+1328,Lynn,Morales,24,Male,Single,3,UI Designer,1,2026-06-14,5.0,No,Yes,3.0,1
+1707,Ruben,Mendez,34,Male,Single,6,Customer Success Manager,2,2024-12-25,,No,No,12.0,0
+1199,Russell,Carpenter,21,Male,Single,9,Accountant,1,2023-12-08,3.0,No,No,2.0,2
+1471,Makayla,Olson,29,Male,Single,1,Software Engineer,3,2023-06-23,3.0,No,No,37.0,6
+1809,Tyler,Burton,33,Male,Single,5,Marketing Manager,3,2025-01-20,2.0,No,No,3.0,2
+1695,Dominic,Thornton,23,Male,Divorced,4,Sales Development Rep,2,2026-06-10,4.0,No,Hybrid,1.0,3
+1267,Anne,Robinson,25,Female,Single,9,Finance Analyst,3,01-09-2025,5.0,No,Hybrid,14.0,2
+1616,Anne,Reid,23,Male,Single,7,Operations Manager,2,2023-02-05,4.0,No,Hybrid,,1
+1733,David,Richardson,27,Female,Single,1,Engineering Manager,3,2026-04-24,4.0,Yes,Hybrid,10.0,2
+1493,Ellen,Paul,33,Female,Married,1,Engineering Manager,3,2021-06-25,4.0,No,Hybrid,1.0,5
+1131,Nicole,Suarez,23,Female,Single,6,Customer Success Associate,3,2021-11-06,3.0,Yes,No,6.0,1
+1339,Jody,Meza,34,Female,Single,6,Customer Success Associate,1,2025-06-02,3.0,No,Hybrid,24.0,4
+1748,Tina,Gould,43,Female,Single,2,Product Analyst,2,2023-10-11,4.0,No,Hybrid,21.0,0
+1490,Kevin,Vasquez,36,Female,Married,4,Account Executive,4,2024-10-18,5.0,Yes,Yes,20.0,2
+1573,Mitchell,Griffith,24,Female,Married,1,QA Engineer,5,2023-09-07,4.0,No,Hybrid,13.0,4
+1607,Rebecca,Bailey,36,Male,Single,5,Content Marketer,1,2025-01-10,2.0,No,Hybrid,2.0,2
+1194,David,Fisher,22,Female,Single,6,Customer Success Manager,3,2023-10-20,2.0,No,Hybrid,2.0,1
+1141,Jennifer,Harris,31,Male,Married,4,Account Executive,2,2023-07-18,5.0,No,Yes,4.0,2
+1417,Alicia,Bryant,30,Female,Married,7,Operations Manager,2,2024-07-14,5.0,No,Hybrid,1.0,2
+1661,Mary,Stephenson,22,Female,,5,Growth Marketer,5,2025-09-30,3.0,No,Hybrid,25.0,2
+1477,Tammy,Ballard,27,Male,Divorced,1,Engineering Manager,2,2024-07-30,2.0,Yes,No,1.0,2
+1715,Jon,Smith,30,Female,Single,1,  Engineering Manager  ,4,2025-05-17,5.0,Yes,No,19.0,5
+1153,Earl,Anderson,24,Female,Married,4,Sales Manager,2,2022-08-15,3.0,Yes,Hybrid,6.0,2
+1789,Kimberly,Bowman,31,Male,Single,1,Software Engineer,2,2021-04-21,3.0,No,No,21.0,1
+1011,Linda,Wolfe,29,Male,Single,2,Senior Product Manager,2,2024-09-20,3.0,No,Hybrid,4.0,2
+1270,Julie,Wilson,30,Female,Single,1,  QA Engineer  ,3,2026-02-08,5.0,No,Hybrid,3.0,1
+1097,John,Leblanc,35,Female,Single,4,Account Executive,1,"May 09, 2023",3.0,Yes,Yes,15.0,3
+1211,Robert,Soto,25,Female,Married,2,Product Manager,1,2024-04-14,3.0,Yes,Hybrid,7.0,0
+1048,Bryan,James,34,Female,Single,5,Growth Marketer,3,2021-05-14,4.0,No,Yes,22.0,2
+1753,Kimberly,Johnson,22,Female,,1,QA Engineer,4,2025-11-14,3.0,Yes,Yes,2.0,4
+1570,Cynthia,Johnson,30,Female,Single,2,Product Analyst,1,2024-10-12,3.0,No,No,10.0,2
+1549,Lisa,Hawkins,24,Male,Divorced,4,Sales Development Rep,4,07/26/2025,4.0,Yes,Hybrid,,2
+1843,Erin,Wilson,29,Female,Single,1,QA Engineer,3,2024-07-26,5.0,No,Hybrid,2.0,2
+1533,Cameron,Hill,21,Female,Single,1,Senior Software Engineer,1,2023-11-24,5.0,Yes,Yes,4.0,6
+1821,Joseph,Wright,26,Male,Married,4,Sales Manager,5,2021-04-10,5.0,No,No,6.0,2
+1333,Kathy,Obrien,32,Male,Divorced,6,Customer Success Associate,1,2026-05-29,2.0,No,No,,2
+1076,Wanda,Santos,34,Male,Single,6,Customer Success Associate,2,2026-03-25,3.0,No,Hybrid,12.0,4
+1713,Peter,Harrison,31,Male,Single,4,Sales Manager,3,2025-08-19,3.0,No,Yes,25.0,1
+1078,David,Walker,27,Male,Single,3,Design Lead,3,2023-05-15,4.0,No,Hybrid,,2
+1264,Stefanie,Gonzalez,27,Female,Single,6,Customer Success Manager,1,2021-04-05,3.0,No,No,18.0,3
+1535,Mark,Vang,27,Female,Married,3,UX Designer,5,2023-09-05,3.0,No,Hybrid,1.0,2
+1150,Charles,Ware,33,Male,Single,5,Content Marketer,3,"September 24, 2023",4.0,No,Hybrid,6.0,1
+1820,Luis,Owens,31,Female,Single,5,Marketing Manager,5,2022-08-30,4.0,No,Hybrid,5.0,2
+1515,Duane,Anderson,33,Male,Single,3,Design Lead,1,2023-07-31,2.0,No,No,42.0,1
+1827,Kathryn,Jimenez,27,Male,,3,UX Designer,2,2023-11-22,1.0,No,No,5.0,0
+1470,Maria,Scott,29,Male,Married,3,Design Lead,4,2023-01-27,4.0,No,Hybrid,22.0,2
+1565,Joseph,White,30,Female,Single,1,Software Engineer,4,2025-09-04,4.0,Yes,Hybrid,4.0,0
+1462,Courtney,Berger,33,Female,Married,1,QA Engineer,2,2024-11-29,5.0,No,No,20.0,4
+1254,Derek,Murray,22,Female,Single,1,Engineering Manager,2,2023-12-27,4.0,Yes,No,5.0,0
+1772,Michael,Brown,22,Female,Single,2,Product Analyst,1,2025-03-07,2.0,Yes,Yes,3.0,2
+1370,Michael,Cook,26,Male,Single,5,Marketing Specialist,2,2023-05-03,3.0,No,Hybrid,5.0,2
+1322,Heidi,Martinez,28,Male,Divorced,1,QA Engineer,1,2025-06-28,4.0,Yes,Yes,1.0,1
+1696,Shane,Smith,33,Male,Married,6,Customer Success Associate,1,2026-05-25,2.0,Yes,No,12.0,1
+1152,Mary,Aguilar,26,Male,Married,2,Product Manager,2,2024-04-18,3.0,No,Hybrid,32.0,1
+1836,Ryan,Khan,32,Male,Married,5,Marketing Manager,2,2022-11-06,3.0,No,No,3.0,2
+1303,Hannah,Brewer,21,Female,Married,3,UI Designer,1,2026-04-09,3.0,Yes,Hybrid,5.0,2
+1191,Jennifer,Evans,31,Male,Single,4,Sales Development Rep,1,2026-06-26,4.0,No,Hybrid,4.0,0
+1587,Jonathan,Murphy,26,Male,Single,7,Operations Manager,2,2025-10-29,1.0,No,Yes,9.0,3
+1349,Donna,Peck,24,Female,Married,2,Product Manager,3,2023-10-24,4.0,No,Hybrid,6.0,2
+1244,Robert,Adkins,33,Male,Married,2,Product Analyst,3,2023-01-22,4.0,Yes,No,8.0,4
+1088,Lindsey,Lee,28,Male,Married,5,Marketing Manager,1,2026-02-19,5.0,No,No,7.0,4
+1752,Douglas,Lawson,34,Male,Married,3,UI Designer,2,2024-08-27,3.0,No,Hybrid,17.0,5
+1656,Henry,Lewis,24,Female,,9,Finance Analyst,4,2026-05-19,3.0,Yes,No,23.0,1
+1800,Wayne,Jackson,39,Female,Married,5,Growth Marketer,1,2022-03-04,4.0,No,Yes,1.0,0
+1779,Anthony,Spencer,30,Female,Divorced,9,Accountant,1,2021-02-05,3.0,Yes,No,19.0,2
+1419,Diana,Moore,25,Male,Single,4,Sales Manager,1,2026-05-19,3.0,No,Hybrid,9.0,1
+1289,Amanda,Webb,34,Male,Single,5,Marketing Specialist,3,2025-06-27,4.0,No,Hybrid,22.0,0
+1649,Sharon,Collins,22,Male,Single,4,Account Executive,3,2023-01-31,3.0,No,No,2.0,4
+1167,Kristin,Rodriguez,35,Male,Single,1,Senior Software Engineer,2,2024-01-12,3.0,No,No,23.0,5
+1596,Jenna,Butler,33,Male,Married,1,Engineering Manager,3,2020-12-17,3.0,Yes,No,16.0,0
+1825,Erik,Murphy,21,Male,Married,1,Software Engineer,3,2022-06-22,4.0,No,Hybrid,21.0,1
+1156,Rachel,Clark,32,Female,Single,5,  Marketing Specialist  ,2,2024-03-02,4.0,No,No,16.0,2
+1357,Sherri,Mason,24,Female,Single,9,Finance Analyst,1,2024-04-23,3.0,No,Hybrid,13.0,0
+1382,Kathleen,Harris,25,Female,Single,1,Senior Software Engineer,3,2023-05-29,3.0,No,Yes,6.0,1
+1280,Kimberly,Reed,21,Male,Married,1,Engineering Manager,3,2022-02-28,4.0,No,No,4.0,3
+1127,Charles,Ellis,23,Male,Single,2,Product Analyst,1,2025-08-06,4.0,Yes,Hybrid,1.0,0
+1708,John,Butler,21,Male,Married,4,Sales Development Rep,3,2026-04-01,4.0,Yes,Yes,5.0,1
+1778,Dominic,Tyler,29,Male,Married,4,Account Executive,5,2022-12-05,1.0,Yes,Yes,7.0,2
+1023,Christopher,Hall,38,Female,,1,DevOps Engineer,2,2022-08-08,3.0,No,Yes,9.0,4
+1617,Claudia,Lin,26,Male,Single,4,Account Executive,3,2022-03-10,3.0,No,Yes,13.0,4
+1666,Lisa,Martin,26,Female,Divorced,6,Customer Success Manager,1,2025-02-17,4.0,Yes,Hybrid,2.0,0
+1283,Melissa,Short,25,Male,Single,4,Account Executive,2,2026-06-04,4.0,No,Hybrid,7.0,1
+1472,Lindsay,Francis,23,Female,Single,1,Senior Software Engineer,2,2024-04-29,,No,No,1.0,2
+1739,Jessica,Miller,30,Male,Married,5,Marketing Manager,1,2023-02-14,3.0,Yes,No,12.0,1
+1368,Brenda,Walters,34,Male,Divorced,8,HR Business Partner,2,2024-04-25,3.0,No,Hybrid,9.0,2
+1026,Mitchell,Clark,25,Female,Married,5,Content Marketer,2,2026-04-07,4.0,Yes,Yes,24.0,6
+1197,Kevin,Kelley,21,Male,Single,1,Software Engineer,3,2026-06-04,2.0,No,No,24.0,0
+1065,Natasha,Decker,32,Female,Single,9,Accountant,2,2023-12-23,3.0,No,No,1.0,1
+1016,Lindsay,Blair,25,Female,Single,1,Senior Software Engineer,2,2021-11-25,4.0,Yes,Yes,32.0,3
+1467,Gregory,Anderson,33,Female,Single,1,Senior Software Engineer,2,2024-02-23,3.0,Yes,Hybrid,26.0,2
+1298,Matthew,Beard,24,Male,Single,4,Sales Manager,1,2023-08-09,3.0,Yes,Yes,29.0,1
+1622,Lance,Hayes,33,Non-binary,Single,6,Customer Success Associate,1,2024-11-01,5.0,No,Hybrid,6.0,3
+1337,Veronica,Torres,30,Male,Married,2,Product Analyst,4,31-01-2024,3.0,No,Yes,2.0,1
+1027,Joseph,Zuniga,24,Female,Single,4,Sales Development Rep,3,2022-09-19,3.0,No,Yes,18.0,3
+1589,Gregory,James,28,Female,Single,1,DevOps Engineer,2,2023-03-23,4.0,No,Hybrid,18.0,2
+1044,Whitney,Hicks,24,Female,Divorced,4,Sales Manager,3,"September 23, 2023",3.0,No,Yes,6.0,0
+1498,Stephanie,Johnson,32,Female,Single,7,Operations Manager,3,2024-03-29,1.0,No,Hybrid,3.0,3
+1793,Eric,Martin,26,Female,Single,2,Senior Product Manager,1,2023-02-16,3.0,Yes,Yes,8.0,2
+1516,John,Thompson,21,Female,Married,7,Operations Manager,2,2025-03-07,2.0,No,Hybrid,27.0,4
+1841,William,Duran,23,Male,Single,3,UI Designer,1,2024-10-31,3.0,Yes,Hybrid,3.0,1
+1562,Loretta,Austin,23,Female,Married,4,Sales Manager,2,2026-04-01,2.0,Yes,Yes,1.0,0
+1455,Brandon,Obrien,37,Female,Single,7,Operations Analyst,3,2025-04-21,5.0,No,No,1.0,3
+1388,Andrea,Davis,21,Male,Divorced,3,Design Lead,1,2021-10-15,5.0,Yes,Yes,28.0,4
+1072,Joseph,Brennan,31,Female,Married,6,Customer Success Manager,3,2022-04-11,3.0,No,Hybrid,19.0,1
+1543,Robert,Davis,29,Male,Single,6,Customer Success Manager,4,2022-12-27,3.0,Yes,Hybrid,13.0,3
+1457,Justin,Lindsey,21,Female,Single,5,Marketing Manager,2,2026-06-26,3.0,Yes,No,8.0,4
+1634,William,Thompson,28,Male,,3,Design Lead,1,2023-09-17,5.0,No,No,12.0,3
+1432,Heather,Berger,21,Female,Single,5,Growth Marketer,5,2026-06-14,3.0,No,Yes,30.0,3
+1628,Paula,Cole,23,Female,Single,4,Sales Manager,2,2025-01-01,5.0,No,No,9.0,4
+1654,Debbie,Henderson,34,Male,Single,2,Senior Product Manager,3,2026-03-07,3.0,Yes,No,21.0,3
+1729,Amy,King,24,Female,Single,7,Operations Manager,2,2023-11-19,,Yes,Hybrid,6.0,3
+1265,Andrew,Hernandez,34,Male,Single,1,Senior Software Engineer,2,2020-08-14,3.0,Yes,No,2.0,1
+1210,Melissa,Jones,21,Female,Divorced,2,Senior Product Manager,2,2024-06-18,2.0,No,Yes,48.0,2
+1317,Justin,Garcia,32,Female,Divorced,2,Senior Product Manager,1,2021-08-27,3.0,Yes,No,3.0,3
+1514,Aaron,Garrison,23,Female,Married,6,Customer Success Manager,1,10/09/2024,3.0,Yes,Yes,,2
+1314,Jacob,Robinson,26,Male,Divorced,4,  Sales Manager  ,3,2022-06-06,4.0,Yes,Yes,60.0,1
+1535,Mark,Vang,27,Female,Married,3,  UX Designer  ,5,2023-09-05,3.0,No,Hybrid,1.0,2
+1830,Sierra,Wagner,24,Male,Single,4,Sales Manager,1,2023-09-08,3.0,No,No,1.0,1
+1320,Amanda,Hill,21,Male,Married,4,Sales Manager,1,2024-04-23,2.0,Yes,Yes,25.0,3
+1008,Debra,Gardner,27,Male,Single,1,QA Engineer,2,2026-03-30,4.0,Yes,Yes,5.0,3
+1394,Tina,Sanchez,28,Male,Single,1,DevOps Engineer,5,2025-02-26,4.0,No,No,15.0,2
+1142,Cynthia,Baker,31,Male,Married,1,Software Engineer,1,2025-08-23,3.0,No,Hybrid,22.0,1
+1087,Thomas,Mueller,31,Male,Single,4,Sales Manager,4,2024-03-14,5.0,Yes,Hybrid,1.0,4
+1479,Alexander,Herrera,21,Female,Married,4,Sales Manager,2,2023-10-23,4.0,No,No,,3
+1504,James,Martinez,21,Male,Single,2,Senior Product Manager,2,2022-07-08,2.0,No,Yes,10.0,3
+1754,Carlos,Osborne,21,Male,Single,3,  UI Designer  ,4,2024-04-18,4.0,No,Yes,9.0,1
+1216,Daniel,Coleman,25,Male,Single,6,Customer Success Associate,4,2024-12-19,,Yes,Hybrid,3.0,2
+1581,Russell,Campbell,34,Male,Single,1,DevOps Engineer,1,2026-07-07,2.0,No,Hybrid,1.0,8
+1563,Dawn,Johnson,24,Male,Married,6,Customer Success Manager,2,2026-05-30,3.0,No,No,1.0,2
+1399,Robert,Villa,25,Male,Single,2,Senior Product Manager,3,2025-09-06,3.0,Yes,Hybrid,19.0,2
+1669,Sean,Mitchell,24,Male,Divorced,1,Engineering Manager,3,2023-12-18,3.0,Yes,Yes,3.0,3
+1491,Colton,Clay,23,Male,Married,5,Marketing Manager,4,2023-12-09,2.0,No,Hybrid,8.0,4
+1253,Anthony,Day,36,Female,Married,7,Operations Manager,1,2026-02-28,3.0,Yes,No,3.0,5
+1469,Alyssa,Mcintyre,37,Male,Single,1,Senior Software Engineer,1,2024-08-20,3.0,Yes,Yes,23.0,4
+1358,Troy,Miller,40,Male,Divorced,6,Customer Success Manager,4,2025-10-02,2.0,Yes,No,1.0,4
+1255,Brent,Gray,27,Female,Single,2,Product Analyst,3,2020-12-02,3.0,Yes,Hybrid,6.0,5
+1277,Curtis,Barton,24,Female,Married,1,QA Engineer,1,2025-01-09,1.0,No,Hybrid,2.0,2
+1179,Sydney,Baker,37,Male,Married,2,Senior Product Manager,4,2024-12-12,1.0,No,No,1.0,3
+1282,William,Peterson,23,Female,Married,1,Senior Software Engineer,3,2023-11-28,3.0,No,Hybrid,2.0,0
+1391,Marilyn,Jimenez,30,Female,Single,3,UX Designer,4,2021-11-15,4.0,Yes,Hybrid,1.0,2
+1509,David,Cunningham,24,Male,Single,9,Accountant,3,22-03-2023,3.0,Yes,Yes,3.0,2
+1750,Michael,Owen,21,Female,Single,2,Product Manager,3,2025-06-09,2.0,No,Hybrid,7.0,1
+1584,Randall,Greene,31,Female,Divorced,6,Customer Success Manager,2,2024-12-26,4.0,Yes,Hybrid,,1
+1130,Joseph,Mahoney,30,Male,Married,6,Customer Success Associate,4,2025-04-12,2.0,Yes,No,,2
+1145,Rodney,Hill,21,Female,Married,2,Senior Product Manager,1,2024-02-04,5.0,Yes,No,1.0,4
+1848,Vincent,Williams,21,Female,Divorced,9,Finance Analyst,1,2023-12-15,5.0,No,Hybrid,16.0,3
+1646,Donald,Bailey,27,Male,Married,8,People Ops Associate,1,2020-09-19,3.0,No,Yes,5.0,4
+1716,Kristina,Cooper,21,Female,Single,2,Product Analyst,2,2024-02-19,5.0,No,No,1.0,1
+1768,Melissa,Hayes,30,Male,Divorced,1,Engineering Manager,2,2023-01-18,4.0,No,Yes,11.0,2
+1073,Rodney,Lewis,21,Male,Single,5,Marketing Specialist,2,2025-07-31,3.0,No,Hybrid,8.0,4
+1236,Rick,Daniels,22,Female,Married,1,QA Engineer,1,2024-05-27,5.0,Yes,Hybrid,1.0,2
+1038,Diana,Foster,35,Male,Single,1,Engineering Manager,4,2022-11-03,4.0,No,Hybrid,12.0,2

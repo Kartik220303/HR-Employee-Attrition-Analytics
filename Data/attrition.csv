@@ -1,0 +1,866 @@
+EmployeeID,Attrition,ExitDate,ExitReason
+1271,Yes,2025-11-12,Work-Life Balance
+1402,No,,
+1811,No,,
+1067,No,,
+1329,No,,
+1325,Yes,2025-11-07,Better Opportunity
+1631,No,,
+1073,No,,
+1128,No,,
+1641,No,,
+1406,No,,
+1843,No,,
+1296,No,,
+1068,No,,
+1491,No,,
+1179,No,,
+1180,No,,
+1642,No,,
+1071,No,,
+1398,No,,
+1536,No,,
+1474,Yes,2025-10-12,Poor Culture Fit
+1782,No,,
+1783,No,,
+1679,No,,
+1614,Yes,2024-01-04,Personal Reasons
+1434,No,,
+1850,No,,
+1705,No,,
+1248,No,,
+1862,No,,
+1064,Yes,2025-06-29,Burnout / Overtime
+1048,No,,
+1589,No,,
+1460,No,,
+1077,No,,
+1674,No,,
+1857,No,,
+1420,No,,
+1380,Yes,2026-07-11,Career Change
+1139,No,,
+1701,Yes,2024-06-22,Better Opportunity
+1409,No,,
+1733,No,,
+1363,No,,
+1796,No,,
+1721,No,,
+1551,Yes,2026-03-07,Better Opportunity
+1421,No,,
+1331,Yes,2025-09-21,Commute
+1111,Yes,2025-12-03,Job Dissatisfaction
+1125,No,,
+1165,Yes,2023-12-09,Job Dissatisfaction
+1192,Yes,2025-08-24,Poor Culture Fit
+1583,No,,
+1351,No,,
+1769,No,,
+1148,Yes,2025-08-22,Career Change
+1776,No,,
+1724,No,,
+1605,No,,
+1792,No,,
+1384,No,,
+1105,No,,
+1229,No,,
+1795,Yes,2026-04-12,Job Dissatisfaction
+1066,No,,
+1838,Yes,2026-04-27,Job Dissatisfaction
+1731,No,,
+1669,Yes,2026-01-04,Burnout / Overtime
+1644,No,,
+1634,No,,
+1158,Yes,2025-01-08,Role Pressure
+1805,No,,
+1195,Yes,2026-07-10,Poor Culture Fit
+1426,No,,
+1239,No,,
+1240,No,,
+1538,No,,
+1113,No,,
+1078,No,,
+1832,No,,
+1767,No,,
+1672,No,,
+1301,No,,
+1711,No,,
+1358,Yes,2025-11-01,Work-Life Balance
+1210,Yes,2025-12-25,Commute
+1075,No,,
+1856,Yes,2025-09-22,Job Dissatisfaction
+1237,No,,
+1496,No,,
+1708,No,,
+1379,No,,
+1789,No,,
+1858,No,,
+1477,No,,
+1574,No,,
+1134,Yes,2025-12-30,Relocation
+1823,No,,
+1012,Yes,2025-04-25,Commute
+1348,No,,
+1337,No,,
+1377,No,,
+1194,Yes,2025-01-11,Career Change
+1521,Yes,2026-03-27,Job Dissatisfaction
+1429,No,,
+1156,No,,
+1155,No,,
+1754,No,,
+1274,No,,
+1093,No,,
+1545,No,,
+1632,No,,
+1288,No,,
+1037,No,,
+1359,No,,
+1386,No,,
+1504,No,,
+1322,No,,
+1400,No,,
+1343,No,,
+1542,No,,
+1464,No,,
+1338,Yes,2026-05-10,Job Dissatisfaction
+1215,No,,
+1425,No,,
+1365,No,,
+1848,No,,
+1063,No,,
+1478,No,,
+1300,No,,
+1154,No,,
+1245,No,,
+1647,No,,
+1438,No,,
+1014,No,,
+1153,Yes,2024-03-26,Career Change
+1655,No,,
+1613,No,,
+1305,No,,
+1171,Yes,2025-01-16,Burnout / Overtime
+1800,No,,
+1597,No,,
+1828,No,,
+1035,No,,
+1453,No,,
+1442,No,,
+1375,No,,
+1254,No,,
+1018,No,,
+1418,No,,
+1181,No,,
+1034,No,,
+1327,No,,
+1147,No,,
+1625,No,,
+1773,Yes,2026-05-06,Job Dissatisfaction
+1090,No,,
+1722,No,,
+1225,Yes,2026-01-17,Work-Life Balance
+1556,No,,
+1616,No,,
+1255,No,,
+1798,No,,
+1841,Yes,2025-06-21,Burnout / Overtime
+1043,No,,
+1552,Yes,2025-10-14,Poor Culture Fit
+1412,No,,
+1396,No,,
+1311,No,,
+1514,No,,
+1519,No,,
+1667,No,,
+1432,No,,
+1121,Yes,2025-06-10,Burnout / Overtime
+1456,No,,
+1107,No,,
+1114,No,,
+1428,No,,
+1137,No,,
+1346,No,,
+1742,No,,
+1633,Yes,2023-12-20,Work-Life Balance
+1586,No,,
+1222,No,,
+1291,No,,
+1523,Yes,2025-09-13,Relocation
+1403,Yes,2025-05-12,Better Opportunity
+1591,No,,
+1860,No,,
+1091,No,,
+1286,No,,
+1475,No,,
+1777,No,,
+1216,No,,
+1385,No,,
+1859,No,,
+1788,No,,
+1221,No,,
+1606,No,,
+1424,Yes,2023-03-06,Lack of Growth Opportunity
+1054,No,,
+1670,No,,
+1564,No,,
+1617,No,,
+1623,No,,
+1279,No,,
+1190,Yes,2025-10-11,Poor Culture Fit
+1465,No,,
+1051,No,,
+1763,No,,
+1284,Yes,2025-07-27,Job Dissatisfaction
+1794,No,,
+1263,No,,
+1084,No,,
+1480,No,,
+1283,No,,
+1539,Yes,2025-11-24,Burnout / Overtime
+1036,No,,
+1290,No,,
+1560,No,,
+1778,Yes,2024-08-11,Job Dissatisfaction
+1435,No,,
+1612,No,,
+1226,Yes,2025-06-26,Personal Reasons
+1652,No,,
+1596,No,,
+1168,No,,
+1261,No,,
+1140,Yes,2023-08-10,Job Dissatisfaction
+1289,Yes,2026-05-11,Relocation
+1651,No,,
+1185,Yes,2025-02-15,Relocation
+1822,No,,
+1797,No,,
+1741,No,,
+1466,No,,
+1410,No,,
+1326,No,,
+1547,No,,
+1793,No,,
+1341,Yes,2025-11-10,Burnout / Overtime
+1585,No,,
+1618,Yes,2026-07-08,Career Change
+1056,No,,
+1697,No,,
+1829,No,,
+1815,No,,
+1665,No,,
+1657,No,,
+1287,No,,
+1164,Yes,2025-01-15,Work-Life Balance
+1497,Yes,2026-06-30,Burnout / Overtime
+1540,Yes,2026-07-26,Role Pressure
+1735,Yes,2026-05-26,Job Dissatisfaction
+1483,No,,
+1524,Yes,2025-06-20,Burnout / Overtime
+1845,Yes,2026-05-09,Career Change
+1615,No,,
+1214,No,,
+1659,No,,
+1736,No,,
+1032,Yes,2025-11-27,Work-Life Balance
+1391,No,,
+1761,No,,
+1658,Yes,2026-04-01,Job Dissatisfaction
+1719,No,,
+1785,Yes,2025-04-22,Poor Culture Fit
+1204,No,,
+1360,Yes,2022-11-18,Relocation
+1718,No,,
+1758,No,,
+1437,No,,
+1136,No,,
+1431,No,,
+1725,No,,
+1643,No,,
+1407,No,,
+1739,No,,
+1753,Yes,2025-12-14,Better Opportunity
+1849,Yes,2025-09-05,Burnout / Overtime
+1820,No,,
+1445,No,,
+1508,No,,
+1568,No,,
+1601,No,,
+1213,No,,
+1009,No,,
+1307,No,,
+1109,No,,
+1745,No,,
+1837,No,,
+1177,No,,
+1704,Yes,2025-03-03,Burnout / Overtime
+1675,No,,
+1249,No,,
+1046,No,,
+1160,No,,
+1267,No,,
+1662,No,,
+1081,No,,
+1308,No,,
+1664,No,,
+1269,No,,
+1518,No,,
+1321,No,,
+1646,No,,
+1268,No,,
+1098,No,,
+1537,No,,
+1405,No,,
+1250,Yes,2025-05-31,Role Pressure
+1019,No,,
+1498,No,,
+1509,No,,
+1167,Yes,2025-08-12,Job Dissatisfaction
+1026,No,,
+1493,Yes,2023-06-24,Career Change
+1546,Yes,2025-10-05,Career Change
+1072,No,,
+1276,Yes,2026-03-29,Commute
+1802,No,,
+1578,Yes,2026-04-07,Relocation
+1682,No,,
+1170,No,,
+1076,No,,
+1713,No,,
+1621,Yes,2025-11-30,Relocation
+1306,Yes,2025-10-03,Work-Life Balance
+1355,No,,
+1766,Yes,2024-08-20,Better Opportunity
+1691,No,,
+1381,No,,
+1512,No,,
+1069,No,,
+1775,No,,
+1277,No,,
+1595,No,,
+1176,No,,
+1217,No,,
+1573,No,,
+1825,No,,
+1476,No,,
+1852,No,,
+1373,No,,
+1178,No,,
+1203,No,,
+1729,No,,
+1004,No,,
+1264,Yes,2024-07-24,Compensation
+1447,Yes,2024-11-11,Career Change
+1473,No,,
+1463,No,,
+1262,No,,
+1252,No,,
+1094,No,,
+1676,Yes,2025-11-20,Poor Culture Fit
+1227,No,,
+1025,No,,
+1784,No,,
+1638,No,,
+1666,Yes,2026-03-05,Personal Reasons
+1201,Yes,2025-02-25,Poor Culture Fit
+1717,No,,
+1016,Yes,2024-02-20,Job Dissatisfaction
+1258,No,,
+1015,No,,
+1334,No,,
+1230,No,,
+1734,No,,
+1526,Yes,2026-01-16,Job Dissatisfaction
+1847,Yes,2026-03-26,Burnout / Overtime
+1433,No,,
+1781,No,,
+1817,No,,
+1527,Yes,2025-03-15,Work-Life Balance
+1806,Yes,2026-03-31,Burnout / Overtime
+1100,No,,
+1577,No,,
+1810,No,,
+1698,No,,
+1760,No,,
+1317,No,,
+1699,Yes,2025-12-16,Poor Culture Fit
+1272,No,,
+1058,No,,
+1637,No,,
+1684,Yes,2024-10-07,Relocation
+1145,No,,
+1808,No,,
+1690,No,,
+1159,No,,
+1382,No,,
+1118,No,,
+1414,No,,
+1318,No,,
+1089,No,,
+1571,No,,
+1756,No,,
+1513,No,,
+1383,No,,
+1275,No,,
+1007,No,,
+1771,No,,
+1005,No,,
+1320,No,,
+1041,Yes,2026-02-21,Poor Culture Fit
+1238,Yes,2025-12-12,Burnout / Overtime
+1211,No,,
+1865,Yes,2025-05-25,Burnout / Overtime
+1212,No,,
+1609,No,,
+1505,No,,
+1459,No,,
+1482,No,,
+1813,No,,
+1304,Yes,2025-05-19,Better Opportunity
+1065,No,,
+1604,No,,
+1364,No,,
+1312,No,,
+1702,No,,
+1266,Yes,2025-03-17,Work-Life Balance
+1472,Yes,2026-05-09,Work-Life Balance
+1099,No,,
+1834,No,,
+1678,Yes,2025-10-30,Job Dissatisfaction
+1818,No,,
+1339,No,,
+1636,No,,
+1278,Yes,2025-10-24,Burnout / Overtime
+1390,No,,
+1104,No,,
+1197,No,,
+1281,No,,
+1695,No,,
+1855,No,,
+1335,Yes,2025-09-22,Job Dissatisfaction
+1430,Yes,2026-04-07,Career Change
+1163,No,,
+1791,Yes,2026-01-21,Work-Life Balance
+1594,No,,
+1569,No,,
+1232,No,,
+1854,Yes,2023-12-26,Better Opportunity
+1135,No,,
+1462,No,,
+1342,No,,
+1220,No,,
+1448,No,,
+1827,No,,
+1189,No,,
+1193,No,,
+1143,No,,
+1411,Yes,2026-02-12,Burnout / Overtime
+1299,Yes,2026-07-22,Poor Culture Fit
+1490,No,,
+1302,No,,
+1703,No,,
+1399,Yes,2025-10-06,Job Dissatisfaction
+1751,Yes,2023-08-15,Job Dissatisfaction
+1531,No,,
+1129,No,,
+1161,Yes,2024-04-08,Relocation
+1357,Yes,2025-02-07,Career Change
+1124,No,,
+1525,No,,
+1468,No,,
+1169,No,,
+1727,No,,
+1101,No,,
+1762,Yes,2025-01-21,Burnout / Overtime
+1103,Yes,2024-12-26,Burnout / Overtime
+1106,No,,
+1626,No,,
+1579,Yes,2025-09-11,Personal Reasons
+1807,No,,
+1236,No,,
+1558,No,,
+1086,No,,
+1366,No,,
+1740,Yes,2026-06-28,Career Change
+1559,No,,
+1816,No,,
+1017,No,,
+1693,No,,
+1047,No,,
+1522,No,,
+1581,No,,
+1345,Yes,2025-09-05,Burnout / Overtime
+1130,Yes,2025-09-09,Poor Culture Fit
+1270,No,,
+1102,Yes,2024-07-20,Job Dissatisfaction
+1441,No,,
+1706,No,,
+1349,No,,
+1095,Yes,2024-12-15,Burnout / Overtime
+1469,No,,
+1576,No,,
+1755,No,,
+1354,No,,
+1294,No,,
+1116,Yes,2026-04-06,Poor Culture Fit
+1002,No,,
+1752,Yes,2025-06-29,Relocation
+1196,No,,
+1624,Yes,2025-08-20,Commute
+1062,No,,
+1333,No,,
+1243,No,,
+1593,No,,
+1080,No,,
+1044,No,,
+1021,Yes,2024-05-30,Burnout / Overtime
+1206,Yes,2024-07-25,Job Dissatisfaction
+1635,No,,
+1207,No,,
+1660,No,,
+1092,Yes,2026-07-21,Poor Culture Fit
+1293,No,,
+1151,Yes,2025-12-15,Work-Life Balance
+1685,No,,
+1083,No,,
+1088,No,,
+1142,No,,
+1257,Yes,2022-06-27,Job Dissatisfaction
+1572,Yes,2024-05-26,Personal Reasons
+1340,No,,
+1835,No,,
+1040,No,,
+1555,No,,
+1779,No,,
+1085,No,,
+1231,Yes,2025-02-21,Burnout / Overtime
+1619,No,,
+1839,No,,
+1629,No,,
+1315,No,,
+1393,No,,
+1452,No,,
+1484,Yes,2025-10-29,Poor Culture Fit
+1173,No,,
+1198,No,,
+1602,No,,
+1759,No,,
+1450,Yes,2024-10-10,Job Dissatisfaction
+1362,No,,
+1202,No,,
+1141,No,,
+1313,No,,
+1049,No,,
+1369,No,,
+1746,Yes,2025-08-18,Burnout / Overtime
+1097,No,,
+1853,No,,
+1242,No,,
+1029,Yes,2026-01-12,Career Change
+1233,No,,
+1443,No,,
+1764,No,,
+1061,Yes,2026-04-13,Work-Life Balance
+1013,No,,
+1716,No,,
+1842,No,,
+1022,No,,
+1575,No,,
+1174,No,,
+1039,No,,
+1650,No,,
+1470,No,,
+1273,No,,
+1350,No,,
+1630,No,,
+1070,No,,
+1653,No,,
+1246,No,,
+1688,No,,
+1330,No,,
+1387,No,,
+1830,No,,
+1303,No,,
+1840,No,,
+1673,No,,
+1131,No,,
+1584,No,,
+1507,No,,
+1347,Yes,2025-08-23,Poor Culture Fit
+1187,No,,
+1356,No,,
+1831,No,,
+1439,Yes,2025-09-13,Poor Culture Fit
+1620,No,,
+1138,Yes,2025-04-01,Personal Reasons
+1529,Yes,2025-08-04,Career Change
+1324,No,,
+1645,No,,
+1454,No,,
+1748,No,,
+1416,No,,
+1723,No,,
+1205,No,,
+1530,No,,
+1772,No,,
+1328,No,,
+1533,Yes,2025-11-25,Burnout / Overtime
+1368,No,,
+1401,No,,
+1851,No,,
+1042,No,,
+1352,No,,
+1200,No,,
+1696,No,,
+1732,Yes,2024-09-08,Job Dissatisfaction
+1582,No,,
+1224,No,,
+1481,No,,
+1726,No,,
+1515,No,,
+1370,No,,
+1622,Yes,2025-10-15,Work-Life Balance
+1183,No,,
+1543,No,,
+1186,No,,
+1532,No,,
+1133,No,,
+1550,No,,
+1235,No,,
+1486,No,,
+1683,Yes,2025-11-03,Job Dissatisfaction
+1020,No,,
+1408,No,,
+1833,No,,
+1561,No,,
+1608,No,,
+1404,Yes,2025-10-30,Poor Culture Fit
+1790,Yes,2026-06-30,Poor Culture Fit
+1451,No,,
+1757,No,,
+1117,No,,
+1149,No,,
+1557,No,,
+1768,No,,
+1247,No,,
+1218,No,,
+1112,No,,
+1680,No,,
+1038,No,,
+1367,No,,
+1119,No,,
+1234,No,,
+1826,No,,
+1024,Yes,2025-11-20,Commute
+1259,No,,
+1310,No,,
+1603,No,,
+1541,No,,
+1378,No,,
+1419,No,,
+1548,No,,
+1812,No,,
+1208,No,,
+1144,Yes,2025-09-23,Burnout / Overtime
+1082,No,,
+1570,No,,
+1786,No,,
+1122,No,,
+1455,No,,
+1495,No,,
+1027,No,,
+1501,No,,
+1397,No,,
+1738,Yes,2024-07-11,Personal Reasons
+1517,No,,
+1590,Yes,2025-04-20,Burnout / Overtime
+1787,No,,
+1648,No,,
+1319,No,,
+1436,No,,
+1219,No,,
+1336,No,,
+1743,No,,
+1297,Yes,2026-05-20,Poor Culture Fit
+1668,No,,
+1686,No,,
+1804,No,,
+1285,No,,
+1023,No,,
+1228,Yes,2025-05-12,Job Dissatisfaction
+1003,No,,
+1446,No,,
+1549,Yes,2025-08-25,Better Opportunity
+1030,No,,
+1499,No,,
+1458,No,,
+1006,No,,
+1715,No,,
+1282,Yes,2025-01-24,Job Dissatisfaction
+1033,No,,
+1422,No,,
+1728,No,,
+1628,Yes,2025-08-11,Role Pressure
+1157,Yes,2026-07-04,Burnout / Overtime
+1846,No,,
+1520,No,,
+1803,No,,
+1814,No,,
+1587,No,,
+1260,No,,
+1298,Yes,2024-10-26,Career Change
+1656,Yes,2026-06-18,Career Change
+1503,No,,
+1471,No,,
+1554,No,,
+1774,No,,
+1011,No,,
+1692,No,,
+1008,Yes,2026-04-29,Work-Life Balance
+1209,No,,
+1661,Yes,2025-10-30,Poor Culture Fit
+1376,No,,
+1599,Yes,2023-11-13,Work-Life Balance
+1415,No,,
+1292,No,,
+1050,Yes,2025-09-26,Career Change
+1687,No,,
+1610,No,,
+1449,No,,
+1053,Yes,2026-06-09,Poor Culture Fit
+1309,Yes,2025-09-05,Role Pressure
+1316,Yes,2025-05-14,Burnout / Overtime
+1489,Yes,2024-07-25,Job Dissatisfaction
+1592,Yes,2026-04-17,Relocation
+1392,No,,
+1821,No,,
+1502,Yes,2025-07-14,Relocation
+1120,No,,
+1861,No,,
+1395,No,,
+1844,No,,
+1654,Yes,2026-04-06,Career Change
+1528,No,,
+1640,No,,
+1087,Yes,2025-11-29,Better Opportunity
+1172,No,,
+1028,No,,
+1747,No,,
+1511,Yes,2025-04-09,Poor Culture Fit
+1749,No,,
+1663,No,,
+1694,No,,
+1492,No,,
+1580,No,,
+1737,Yes,2025-09-23,Poor Culture Fit
+1253,No,,
+1553,No,,
+1770,No,,
+1132,No,,
+1700,No,,
+1627,No,,
+1709,No,,
+1566,No,,
+1126,Yes,2025-09-17,Work-Life Balance
+1010,No,,
+1079,Yes,2025-04-14,Burnout / Overtime
+1544,No,,
+1485,No,,
+1780,No,,
+1588,No,,
+1055,No,,
+1389,No,,
+1671,No,,
+1353,No,,
+1488,No,,
+1567,No,,
+1251,No,,
+1444,No,,
+1166,No,,
+1506,No,,
+1265,No,,
+1052,No,,
+1108,No,,
+1060,No,,
+1479,No,,
+1598,No,,
+1809,Yes,2025-09-05,Poor Culture Fit
+1500,No,,
+1182,No,,
+1863,No,,
+1467,Yes,2025-10-30,Burnout / Overtime
+1712,No,,
+1750,No,,
+1744,No,,
+1199,No,,
+1836,No,,
+1280,No,,
+1332,No,,
+1799,No,,
+1191,No,,
+1535,No,,
+1223,No,,
+1115,No,,
+1152,Yes,2025-06-30,Commute
+1461,Yes,2026-02-10,Career Change
+1689,Yes,2025-08-31,Burnout / Overtime
+1188,No,,
+1074,No,,
+1730,No,,
+1241,Yes,2025-11-27,Job Dissatisfaction
+1146,No,,
+1563,No,,
+1256,Yes,2025-03-07,Work-Life Balance
+1096,Yes,2025-09-27,Personal Reasons
+1611,No,,
+1720,No,,
+1372,No,,
+1371,No,,
+1516,No,,
+1413,Yes,2026-05-24,Burnout / Overtime
+1494,No,,
+1639,No,,
+1801,No,,
+1162,No,,
+1427,Yes,2026-08-18,Personal Reasons
+1244,Yes,2025-02-26,Relocation
+1681,No,,
+1417,No,,
+1344,Yes,2025-05-11,Career Change
+1323,No,,
+1562,No,,
+1649,No,,
+1031,No,,
+1374,No,,
+1864,No,,
+1707,No,,
+1057,Yes,2026-01-08,Burnout / Overtime
+1487,No,,
+1510,No,,
+1423,No,,
+1714,No,,
+1150,No,,
+1534,No,,
+1184,No,,
+1001,Yes,2026-05-24,Poor Culture Fit
+1388,No,,
+1565,No,,
+1127,Yes,2025-09-05,Poor Culture Fit
+1295,No,,
+1045,Yes,2025-12-12,Burnout / Overtime
+1677,No,,
+1314,Yes,2025-02-08,Work-Life Balance
+1824,No,,
+1607,No,,
+1110,No,,
+1765,No,,
+1059,No,,
+1394,No,,
+1819,No,,
+1457,Yes,2026-07-26,Poor Culture Fit
+1600,No,,
+1361,Yes,2025-11-08,Career Change
+1710,No,,
+1440,No,,
+1175,Yes,2025-08-17,Better Opportunity
+1123,No,,
