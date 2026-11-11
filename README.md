@@ -24,17 +24,6 @@ A synthetic, self-generated dataset built specifically for this project - 865 em
 - **Power BI:** DAX measures, calculated columns, cross-filtering slicers, dashboard design
 - **Excel:** Pivot tables, `DATEDIF`, attrition cost modeling
 
-## Repository Structure
-
-```
-├── data/                  # Source CSVs
-├── sql/                   # SQL scripts (schema, cleaning, analysis, exports)
-├── powerbi/                # Power BI dashboard (.pbix)
-├── excel/                  # Excel pivot table + cost calculator
-├── screenshots/            # Dashboard image(s)
-└── README.md
-```
-
 ## Approach
 
 **1. Data Modeling & Cleaning (SQL)**
