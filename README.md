@@ -20,9 +20,35 @@ A synthetic, self-generated dataset built specifically for this project - 865 em
 
 ## Tools & Techniques
 
-- **SQL (MySQL):** Joins, subqueries, window functions (`TIMESTAMPDIFF`), data cleaning (deduplication, date standardization, orphan record removal)
+- **SQL (MySQL):** Joins, subqueries, aggregations, date functions (`TIMESTAMPDIFF`), data cleaning (deduplication, date standardization, orphan record removal)
 - **Power BI:** DAX measures, calculated columns, cross-filtering slicers, dashboard design
 - **Excel:** Pivot tables, `DATEDIF`, attrition cost modeling
+
+## Repository Structure
+
+```
+HR-Employee-Attrition-Analytics/
+├── Data/
+│   ├── attrition.csv
+│   ├── departments.csv
+│   ├── employees.csv
+│   ├── performance_reviews.csv
+│   └── salary_history.csv
+├── Sql/
+│   └── HR_Attrition_Full_Script.sql
+├── Power BI/
+│   ├── HR_Attrition.pbix
+│   └── Screenshot/
+│       └── Dashboard.png
+├── Excel/
+│   ├── Department Tenure Band/
+│   │   ├── Department_Tenure_Export.sql
+│   │   └── Department_Tenure_Pivot_Data.xlsx
+│   └── Salary Attrition Cost/
+│       ├── Salary_Attrition_Export.sql
+│       └── Salary_Attrition_Cost_Data.xlsx
+└── README.md
+```
 
 ## Approach
 
@@ -41,19 +67,23 @@ Built a pivot table cross-tabulating attrition rate by department and tenure ban
 ## Key Findings
 
 - **Overall attrition rate: 20.81%** (180 of 865 employees)
-- **Tenure is the strongest driver of attrition:** 44.02% in an employee's first year, dropping to 16.87% (1–3 yrs), 4.79% (3–5 yrs), and 0.00% at 5+ years -attrition is heavily front-loaded
+- **Tenure is the strongest driver of attrition:** 44.02% in an employee's first year, dropping to 16.87% (1–3 yrs), 4.79% (3–5 yrs), and 0.00% at 5+ years - attrition is heavily front-loaded
 - **Department attrition ranges from 16.85% (Marketing) to 24.44% (Customer Success)** - a moderate spread, with early tenure the more dominant pattern
 - **Job satisfaction and work-life balance show a non-monotonic relationship with attrition** - lowest-scoring employees have the highest attrition, but the relationship doesn't decline in a straight line across the scale
 - **32 current employees (~3.7% of the workforce)** flagged on an at-risk watchlist: under 12 months tenure with low satisfaction or work-life balance scores
 - Estimated cost impact of attrition was modeled by department to translate the percentages above into a resourcing/budget conversation
 
+## Dashboard Preview
+
+![HR Attrition Dashboard](Power%20BI/Screenshot/Dashboard.png)
+
 ## Data Validation
 
-Every number in this project was cross-checked across all three tools — SQL query output, Power BI DAX measures, and Excel pivot tables were reconciled against each other at each stage, rather than trusting a single source. Two real bugs were caught and fixed this way (a DAX date-difference edge case, and a hidden zero-value bar chart issue caused by `DIVIDE()` returning blank).
+Every number in this project was cross-checked across all three tools - SQL query output, Power BI DAX measures, and Excel pivot tables were reconciled against each other at each stage, rather than trusting a single source. Two real bugs were caught and fixed this way (a DAX date-difference edge case, and a hidden zero-value bar chart issue caused by `DIVIDE()` returning blank).
 
 ## Notes & Caveats
 
-- Dataset is synthetic, generated for portfolio purposes — figures represent patterns in the simulated data, not a real company
+- Dataset is synthetic, generated for portfolio purposes - figures represent patterns in the simulated data, not a real company
 - A few department-level tenure breakdowns (e.g. Finance, People) are based on small sample sizes and are noted as directional rather than statistically robust
 - ~14 employees have missing salary data and are excluded from salary-band analysis; ~107 employees have no performance review on record and are bucketed as "No Review" rather than imputed
 
